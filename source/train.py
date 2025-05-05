@@ -5,7 +5,24 @@ from risc_dataset import RISCDataset
 from data_loader import load_risc_dataset
 import wandb
 
-wandb.init(project="DI725_ImageCaptioning", name="PaliGemma_Finetune")
+#CONFIG
+USE_AUGMENTATION = True
+LEARNING_RATE = 5e-5
+NUM_EPOCHS = 3
+BATCH_SIZE = 2
+
+run_name = f"PaliGemma_lr{LEARNING_RATE}_aug{USE_AUGMENTATION}"
+
+wandb.init(
+    project="DI725_ImageCaptioning",
+    name=run_name,
+    config={
+        "learning_rate": LEARNING_RATE,
+        "augmentation": USE_AUGMENTATION,
+        "epochs": NUM_EPOCHS,
+        "batch_size": BATCH_SIZE
+    }
+)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -19,12 +36,13 @@ model = PaliGemmaForConditionalGeneration.from_pretrained(
 model.train()
 
 train_data = load_risc_dataset("../data/captions.csv", "../data/resized", "train")
-train_dataset = RISCDataset(train_data, processor, augment=True)
-train_loader = DataLoader(train_dataset, batch_size=2, shuffle=True)
+train_dataset = RISCDataset(train_data, processor, augment=USE_AUGMENTATION)
+train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
 
-optimizer = AdamW(model.parameters(), lr=5e-5)
+optimizer = AdamW(model.parameters(), lr=LEARNING_RATE)
 
-for epoch in range(3):
+for epoch in range(NUM_EPOCHS):
+    print(f"Epoch {epoch + 1}/{NUM_EPOCHS}")
     for batch in train_loader:
         pixel_values = batch["pixel_values"].to(device, dtype=torch.bfloat16)
         labels = batch["labels"].to(device)
@@ -38,7 +56,7 @@ for epoch in range(3):
         )
 
         loss = outputs.loss
-        wandb.log({"train_loss": loss.item()})
+        wandb.log({"train_loss": loss.item(), "epoch": epoch + 1})
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
