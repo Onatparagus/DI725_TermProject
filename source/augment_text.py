@@ -2,8 +2,8 @@ from transformers import pipeline
 import random
 
 paraphraser = pipeline("text2text-generation", model="Vamsi/T5_Paraphrase_Paws", framework="pt")
-translator_en_fr = pipeline("translation", model="Helsinki-NLP/opus-mt-en-fr")
-translator_fr_en = pipeline("translation", model="Helsinki-NLP/opus-mt-fr-en")
+translator_en_fr = pipeline("translation", model="Helsinki-NLP/opus-mt-en-fr", framework="pt")
+translator_fr_en = pipeline("translation", model="Helsinki-NLP/opus-mt-fr-en", framework="pt")
 
 def paraphrase_caption(caption):
     result = paraphraser(caption, max_length=60, num_return_sequences=1)[0]['generated_text']
