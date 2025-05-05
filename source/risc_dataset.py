@@ -21,7 +21,12 @@ class RISCDataset(Dataset):
             captions = augment_captions(captions)
             target = random.choice(captions)
 
-        inputs = self.processor(image, target, return_tensors="pt")
+        prompt = "<image> Describe the image."
+        inputs = self.processor(
+            images=image,
+            text=prompt + " " + target,
+            return_tensors="pt"
+        )
         return {
             "pixel_values": inputs["pixel_values"].squeeze(0),
             "input_ids": inputs["input_ids"].squeeze(0),

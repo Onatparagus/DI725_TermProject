@@ -10,4 +10,5 @@ wandb
 scikit-learn
 sentencepiece
 huggingface_hub
+tqdm
 
