@@ -1,11 +1,13 @@
-transformers==4.41.2
+git+https://github.com/huggingface/transformers
+torchvision==0.18.0
+torch>=2.1.0
 accelerate
 datasets
-torchvision==0.18.0
-wandb
 evaluate
 nltk
-torch>=2.1.0
 pillow
+wandb
 scikit-learn
 sentencepiece
+huggingface_hub
+
