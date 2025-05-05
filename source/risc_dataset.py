@@ -1,5 +1,6 @@
 from torch.utils.data import Dataset
 from PIL import Image
+import random
 
 class RISCDataset(Dataset):
     def __init__(self, data, processor, augment=False):

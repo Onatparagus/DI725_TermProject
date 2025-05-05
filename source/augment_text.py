@@ -1,7 +1,7 @@
 from transformers import pipeline
 import random
 
-paraphraser = pipeline("text2text-generation", model="Vamsi/T5_Paraphrase_Paws")
+paraphraser = pipeline("text2text-generation", model="Vamsi/T5_Paraphrase_Paws", framework="pt")
 translator_en_fr = pipeline("translation", model="Helsinki-NLP/opus-mt-en-fr")
 translator_fr_en = pipeline("translation", model="Helsinki-NLP/opus-mt-fr-en")
 

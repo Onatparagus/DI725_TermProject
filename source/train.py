@@ -1,9 +1,11 @@
 import torch
 from torch.utils.data import DataLoader
-from transformers import PaliGemmaForConditionalGeneration, AutoProcessor, AdamW
+from transformers import PaliGemmaForConditionalGeneration, AutoProcessor
+from torch.optim import AdamW
 from risc_dataset import RISCDataset
 from data_loader import load_risc_dataset
 import wandb
+from datetime import datetime
 
 #CONFIG
 USE_AUGMENTATION = True
@@ -11,10 +13,11 @@ LEARNING_RATE = 5e-5
 NUM_EPOCHS = 3
 BATCH_SIZE = 2
 
-run_name = f"PaliGemma_lr{LEARNING_RATE}_aug{USE_AUGMENTATION}"
+now = datetime.now().strftime("%Y-%m-%d_%H-%M")
+run_name = f"PaliGemma_{now}_lr{LEARNING_RATE}_aug{USE_AUGMENTATION}"
 
 wandb.init(
-    project="DI725_ImageCaptioning",
+    project="DI725_TermProject",
     name=run_name,
     config={
         "learning_rate": LEARNING_RATE,
