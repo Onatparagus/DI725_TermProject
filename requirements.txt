@@ -1,14 +1,21 @@
-git+https://github.com/huggingface/transformers
-torchvision==0.18.0
-torch>=2.1.0
-accelerate
-datasets
-evaluate
-nltk
-pillow
-wandb
-scikit-learn
-sentencepiece
-huggingface_hub
-tqdm
+# Core deep learning stack
+torch>=2.3.0
+torchvision>=0.15.2
 
+# Hugging Face ecosystem (compatible with PaliGemma, avoids tracing bugs)
+transformers==4.48.0
+sentencepiece==0.1.99  # required by some tokenizers (e.g., T5, Gemma)
+accelerate>=0.26.0      # safe for model loading with device_map
+
+# Captioning and evaluation
+nltk==3.8.1
+scikit-learn==1.3.2
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.2
+Pillow==10.3.0
+evaluate==0.4.0
+
+# Visualization and logging
+wandb==0.16.6
+matplotlib==3.8.4
