@@ -33,32 +33,33 @@ wandb.init(
 
 PROMPT_SETS = {
     "basic": [
-        "<image> Describe the image.",
         "<image> Write a caption.",
-        "<image> What is happening?",
         "<image> What do you see?",
-        "<image> Give a description."
+        "<image> Summarize what’s visible.",
+        "<image> Describe any visible activity.",
+        "<image> Describe the visual content of this image."
     ],
     "partial": [
-        "<image> What are the subject/subjects of this image?",
-        "<image> What is the location of this image?",
-        "<image> What is the background of this image?",
+        "<image> What subjects are visible?",
+        "<image> Describe the type of area shown.",
+        "<image> What is the background?",
         "<image> What are the contents of this image?",
         "<image> What are the features of this image?"
     ],
     "descriptive": [
-        "<image> Describe this satellite image in detail.",
-        "<image> Write a rich caption.",
+        "<image> What does this satellite image show?",
+        "<image> Write a detailed description.",
         "<image> What is shown in this aerial view?",
-        "<image> Provide a full description.",
-        "<image> Summarize the scene."
+        "<image> Describe all visible elements.",
+        "<image> What is happening in this scene?"
     ]    
 }
+
 
 # Configuration
 CAPTIONS_CSV = "../data/captions.csv"
 IMAGES_DIR = "../data/resized"
-OUTPUT_JSON = "out/multi_promptset_captions.json"
+OUTPUT_JSON = f"out/multi_promptset_captions_beams{NUM_BEAMS}_maxtokens{MAX_NEW_TOKENS}.json"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load model and processor
@@ -134,5 +135,6 @@ for _, row in tqdm(val_df.iterrows(), total=len(val_df), desc="Generating multi-
 print(results[0])
 
 # Save to file
+os.makedirs("out", exist_ok=True)
 with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2)
