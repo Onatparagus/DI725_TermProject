@@ -34,26 +34,28 @@ wandb.init(
 PROMPT_SETS = {
     "basic": [
         "<image> Write a caption.",
-        "<image> What do you see?",
-        "<image> Summarize what’s visible.",
-        "<image> Describe any visible activity.",
-        "<image> Describe the visual content of this image."
+        "<image> Write a description.",
+        "<image> Describe the image",
+        "<image> Caption the image.",
+        "<image> Add a caption."
     ],
     "partial": [
         "<image> What subjects are visible?",
         "<image> Describe the type of area shown.",
         "<image> What is the background?",
-        "<image> What are the contents of this image?",
+        "<image> What is shown in this image?",
         "<image> What are the features of this image?"
     ],
     "descriptive": [
-        "<image> What does this satellite image show?",
+        "<image> Caption this satellite image.",
         "<image> Write a detailed description.",
-        "<image> What is shown in this aerial view?",
-        "<image> Describe all visible elements.",
-        "<image> What is happening in this scene?"
+        "<image> Describe this image in detail.",
+        "<image> Write a detailed caption.",
+        "<image> Caption what is happening in this scene?"
     ]    
 }
+
+#WORDCOUNT_PROMPT = " Use at least 10 words."
 
 
 # Configuration
@@ -99,6 +101,7 @@ for _, row in tqdm(val_df.iterrows(), total=len(val_df), desc="Generating multi-
     for set_name, prompts in PROMPT_SETS.items():
         generated_captions = []
         for prompt in prompts:
+            #prompt = prompt + WORDCOUNT_PROMPT
             inputs = processor(images=image, text=prompt, return_tensors="pt")
             inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
             with torch.no_grad():
