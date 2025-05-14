@@ -8,6 +8,7 @@ from pathlib import Path
 import pandas as pd
 from tqdm import tqdm
 import json
+#import time
 from datetime import datetime
 import wandb
 import torch
@@ -29,7 +30,6 @@ wandb.init(
         "num_beams": NUM_BEAMS
     }
 )
-wandb.init(project="DI725_Inference", name="PaliGemma_Prompt_Benchmark")
 
 PROMPT_SETS = {
     "basic": [
@@ -73,7 +73,7 @@ model.eval()
 
 # Load validation data
 df = pd.read_csv(CAPTIONS_CSV)
-val_df = df[df["split"] == "val"]
+val_df = df[df["split"] == "val"].sample(n=100, random_state=42)
 
 @torch._dynamo.disable
 def safe_generate(model, inputs, max_new_tokens, num_beams):
@@ -88,6 +88,7 @@ def safe_generate(model, inputs, max_new_tokens, num_beams):
 # Process each image across all prompt sets
 results = []
 for _, row in tqdm(val_df.iterrows(), total=len(val_df), desc="Generating multi-prompt captions"):
+    #start_time = time.time()
     image_path = Path(IMAGES_DIR) / row["image"]
     if not image_path.exists():
         continue
@@ -97,13 +98,25 @@ for _, row in tqdm(val_df.iterrows(), total=len(val_df), desc="Generating multi-
     for set_name, prompts in PROMPT_SETS.items():
         generated_captions = []
         for prompt in prompts:
-            inputs = processor(images=image, text=prompt, return_tensors="pt").to(DEVICE)
+            inputs = processor(images=image, text=prompt, return_tensors="pt")
+            inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
             with torch.no_grad():
                 output = safe_generate(model, inputs, MAX_NEW_TOKENS, NUM_BEAMS)
             caption = processor.decode(output[0], skip_special_tokens=True)
             generated_captions.append(caption)
         gen_by_set[set_name] = generated_captions
 
+    #print(f"{row['image']} took {time.time() - start_time:.2f} seconds")
+    
+    '''
+    # Log only once per image (or remove entirely for speed)
+    if set_name == "basic" and prompt == PROMPT_SETS["basic"][0]:
+        wandb.log({
+            "image": wandb.Image(image),
+            "image_filename": row["image"]
+        })
+    '''
+    
     wandb.log({
         "image": wandb.Image(image),
         "prompt_set": set_name,
