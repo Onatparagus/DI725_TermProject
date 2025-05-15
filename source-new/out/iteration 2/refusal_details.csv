@@ -1,0 +1,869 @@
+image,prompt_set,caption
+NWPU_7597.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_4083.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_20874.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_608.jpg,basic," Write a description.
+unanswerable"
+RSICD_608.jpg,basic," Describe the image
+unanswerable"
+RSICD_608.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_608.jpg,partial," What are the contents of this image?
+unanswerable"
+RSICD_608.jpg,partial," What are the features of this image?
+no image"
+RSICD_608.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_608.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_2024.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_2024.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_2024.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_14572.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_30693.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6611.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6611.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1238.jpg,descriptive," Caption this satellite image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1238.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4126.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4126.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4126.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4126.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_25776.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_20228.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20228.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20228.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20228.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,basic," Describe the image
+no"
+RSICD_3165.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_21573.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21573.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21573.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21573.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21573.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+UCM_885.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_885.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," Caption this satellite image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_385.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_385.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11068.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11068.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11068.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11068.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8999.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8999.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11786.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11786.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11786.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_14594.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_14595.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_4460.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4460.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4460.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_1299.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1299.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1299.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29264.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29264.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29264.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29264.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Caption this satellite image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_25797.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,partial," Describe the background.
+unanswerable"
+NWPU_29312.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+UCM_686.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_686.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9933.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9933.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9933.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_27195.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27195.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27195.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27195.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27195.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_4155.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_6178.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6178.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1271.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1271.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1271.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_2678.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_2678.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20928.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20928.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20928.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_1587.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1860.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1860.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_988.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_988.jpg,partial," Describe the background.
+no"
+UCM_988.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1319.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1319.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1319.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1319.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+UCM_1088.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_1088.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,partial," Describe the background.
+unanswerable"
+NWPU_12493.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_31411.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_31411.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4108.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4108.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_7950.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_19467.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_19467.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8263.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8263.jpg,basic," Describe the image
+no"
+NWPU_8263.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8263.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8263.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_16703.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_17398.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_3381.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_3381.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_25071.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_4821.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4821.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_9010.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_9010.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_9010.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_25075.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25075.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25075.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25075.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_10378.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_10378.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_1580.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1580.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1580.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1580.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8994.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8994.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8994.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_15283.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_15283.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+NWPU_22968.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_22968.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_22968.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_22968.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5521.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5521.jpg,basic," Describe the image
+no"
+NWPU_5521.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5521.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3535.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3535.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,partial," Describe the background.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21572.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21572.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21572.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21572.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25085.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25085.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,descriptive," Caption what is happening in this scene?
+nothing"
+RSICD_9189.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9189.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9189.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9189.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,basic," Write a description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,basic," Describe the image
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,partial," Write about the subjects in this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,descriptive," Describe the contents of this image in detail.
+Sorry, as a base VLM I am not trained to answer this question."

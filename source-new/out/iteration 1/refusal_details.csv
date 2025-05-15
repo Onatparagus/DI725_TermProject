@@ -1,0 +1,631 @@
+image,prompt_set,caption
+NWPU_7597.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,basic," Describe any visible activity.
+no"
+NWPU_7597.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7597.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4083.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,basic," Describe any visible activity.
+no"
+RSICD_277.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_277.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_20874.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20874.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24420.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_608.jpg,basic," Summarize what’s visible.
+unanswerable"
+RSICD_608.jpg,basic," Describe any visible activity.
+no"
+RSICD_608.jpg,basic," Describe the visual content of this image.
+unanswerable"
+RSICD_608.jpg,partial," What is the background?
+unanswerable"
+RSICD_608.jpg,partial," What are the contents of this image?
+unanswerable"
+RSICD_608.jpg,partial," What are the features of this image?
+no image"
+RSICD_608.jpg,descriptive," Describe all visible elements.
+unanswerable"
+RSICD_608.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_2024.jpg,basic," Describe any visible activity.
+no"
+NWPU_2024.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_14572.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14572.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_30693.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30693.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6611.jpg,basic," Describe any visible activity.
+no"
+RSICD_6611.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6611.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_4126.jpg,basic," Describe any visible activity.
+no"
+NWPU_4126.jpg,basic," Describe the visual content of this image.
+no"
+NWPU_4126.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_25776.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25776.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3171.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_20228.jpg,basic," Describe any visible activity.
+no"
+NWPU_20228.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_3165.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_21573.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,basic," Describe any visible activity.
+no"
+NWPU_16683.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16683.jpg,descriptive," What is happening in this scene?
+nothing"
+UCM_885.jpg,basic," Describe any visible activity.
+no"
+NWPU_6172.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," What does this satellite image show?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6172.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25780.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11068.jpg,basic," Describe any visible activity.
+no"
+NWPU_11068.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25773.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9945.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_5498.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8999.jpg,basic," Describe any visible activity.
+no"
+NWPU_11786.jpg,basic," Describe any visible activity.
+no"
+NWPU_11786.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11786.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_14594.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14594.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_14595.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14595.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_4460.jpg,basic," Describe any visible activity.
+no"
+RSICD_4460.jpg,basic," Describe the visual content of this image.
+no"
+RSICD_4460.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_1299.jpg,basic," Describe any visible activity.
+no"
+NWPU_6880.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6880.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_25797.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25797.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29312.jpg,partial," What is the background?
+unanswerable"
+NWPU_29312.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_624.jpg,descriptive," What is happening in this scene?
+nothing"
+UCM_686.jpg,basic," Describe any visible activity.
+no"
+RSICD_9933.jpg,basic," Describe any visible activity.
+no"
+RSICD_9933.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9933.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6878.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_27195.jpg,basic," Describe any visible activity.
+no"
+NWPU_27195.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_4155.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_4155.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7919.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_13873.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_6178.jpg,basic," Describe any visible activity.
+no"
+NWPU_1271.jpg,basic," Describe any visible activity.
+no"
+NWPU_2678.jpg,basic," Describe any visible activity.
+no"
+NWPU_2678.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,basic," Describe any visible activity.
+no"
+RSICD_9538.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9538.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24388.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_20928.jpg,basic," Describe any visible activity.
+no"
+RSICD_6613.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,basic," Describe any visible activity.
+no"
+RSICD_6613.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6613.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_1587.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1587.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1860.jpg,basic," Describe any visible activity.
+no"
+RSICD_7272.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,basic," Describe any visible activity.
+no"
+RSICD_7272.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7272.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+UCM_988.jpg,basic," Describe any visible activity.
+no"
+UCM_988.jpg,basic," Describe the visual content of this image.
+no"
+UCM_988.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_30014.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30014.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_1319.jpg,basic," Describe any visible activity.
+no"
+NWPU_1319.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,basic," Describe any visible activity.
+no"
+RSICD_284.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_284.jpg,descriptive," What is happening in this scene?
+nothing"
+UCM_1088.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_12493.jpg,basic," Summarize what’s visible.
+unanswerable"
+NWPU_12493.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_12493.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_4767.jpg,basic," Describe any visible activity.
+no"
+NWPU_4767.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_31411.jpg,basic," Describe any visible activity.
+no"
+NWPU_31411.jpg,basic," Describe the visual content of this image.
+no"
+NWPU_31411.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_4108.jpg,basic," Describe any visible activity.
+no"
+NWPU_4108.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_24408.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_7950.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7950.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_14603.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_19467.jpg,basic," Describe any visible activity.
+no"
+NWPU_8263.jpg,basic," Describe any visible activity.
+no"
+NWPU_16703.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,basic," Describe any visible activity.
+no"
+NWPU_16703.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16703.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,basic," Describe any visible activity.
+no"
+NWPU_16002.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_16002.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,basic," Describe any visible activity.
+no"
+NWPU_7577.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_7577.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_17398.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_17398.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_3381.jpg,basic," Describe any visible activity.
+no"
+NWPU_18774.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_18774.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9943.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_7933.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25071.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_29272.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_26494.jpg,basic," Describe any visible activity.
+no"
+NWPU_26494.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_4821.jpg,basic," Describe any visible activity.
+no"
+RSICD_6595.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,basic," Describe any visible activity.
+no"
+RSICD_6595.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_6595.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_9010.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_9010.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_25075.jpg,basic," Describe the visual content of this image.
+no"
+NWPU_25823.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25823.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_6881.jpg,basic," Describe any visible activity.
+no"
+NWPU_6881.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_1580.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_1580.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_8994.jpg,basic," Describe any visible activity.
+no"
+NWPU_15283.jpg,basic," Describe any visible activity.
+no"
+NWPU_15283.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_9521.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9521.jpg,descriptive," What is happening in this scene?
+nothing"
+NWPU_22968.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_22968.jpg,basic," Describe any visible activity.
+no"
+NWPU_22968.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,basic," Describe any visible activity.
+no"
+NWPU_11069.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_11069.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,partial," What are the contents of this image?
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_30663.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_21572.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,basic," Describe any visible activity.
+no"
+NWPU_27172.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_27172.jpg,descriptive," What is happening in this scene?
+nothing"
+RSICD_9189.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9189.jpg,basic," Describe any visible activity.
+no"
+RSICD_9189.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+RSICD_9189.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,basic," Summarize what’s visible.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,basic," Describe any visible activity.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,basic," Describe the visual content of this image.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,descriptive," Write a detailed description.
+Sorry, as a base VLM I am not trained to answer this question."
+NWPU_25792.jpg,descriptive," Describe all visible elements.
+Sorry, as a base VLM I am not trained to answer this question."
