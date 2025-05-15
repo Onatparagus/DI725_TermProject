@@ -1,0 +1,3302 @@
+[
+  {
+    "image": "NWPU_7597.jpg",
+    "reference_captions": [
+      "A dense residential area with lots of houses arranged neatly is surrounded by some roads .",
+      "There is a straight road in the middle of the house .",
+      "There are many roads and neatly arranged houses and trees and many vehicles in densely populated areas .",
+      "The dense residential is next to the road with some cars .",
+      "There are brown and black buildings on dense residential area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the buildings, trees, poles and vehicles on the road.",
+        " What do you see?\nneighborhood",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nCar, House.",
+        " Describe the type of area shown.\nsuburb",
+        " What is the background?\nroad",
+        " What are the contents of this image?\nhouses",
+        " What are the features of this image?\nHouse."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhouses",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nneighborhood",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ndriving"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_4083.jpg",
+    "reference_captions": [
+      "Some green chaparrals of different sizes grow in the desert .",
+      "There are some scattered trees in this desert .",
+      "Chaparral is evenly distributed on the sand .",
+      "There are some different kinds of bushes make up the chaparral on the desert .",
+      "The chaparral is not evenly distributed ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA high-angle aerial view of a large number of small dark green plants growing over a large area of a dirt surface. The dirt surface is light brown and gradually becomes darker the higher it goes from the bottom of the image to the top. There",
+        " What do you see?\ndesert",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows small dark spots representing the sites of formerly known large volcanoes.",
+        " Describe the type of area shown.\ndesert",
+        " What is the background?\ndesert",
+        " What are the contents of this image?\nplants",
+        " What are the features of this image?\nThe image shows the distribution of 1,397 plant species in 1,397 plots across the Sonoran Desert (light brown sand) and the Chihuahuan Desert (dark green)."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbushes",
+        " Write a detailed description.\nAn outdoor daytime angled down medium close-up view of an extremely rough and hilly terrain that is colored beige and is scattered with small dark green plants. The plants have pointed tips and are rooted into the beige colored terrain.",
+        " What is shown in this aerial view?\nbushes",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ndrought"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_277.jpg",
+    "reference_captions": [
+      "green grass on both sides of the runway .",
+      "the aircraft parked on the tarmac white .",
+      "the aircraft parked on the tarmac white .",
+      "green grass on both sides of the runway .",
+      "green grass on both sides of the runway ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of an airport.",
+        " What do you see?\nA top-down view of an airport. It has three runways in the middle, and there is grass in between them. There are three planes lined up on the right. The one in the middle is facing to the left. The one on the",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nplanes",
+        " Describe the type of area shown.\nairport",
+        " What is the background?\nairport",
+        " What are the contents of this image?\nairport",
+        " What are the features of this image?\nrunway"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nairport",
+        " Write a detailed description.\nAn aerial view of an airport runway and grass field. The runway is in the middle and is connected to the grass on both sides. There are three planes parked on the right side of the runway. The planes are all facing to the right. A",
+        " What is shown in this aerial view?\nrunway",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_20874.jpg",
+    "reference_captions": [
+      "The railway station has lots of railways and some buildings and the railway station is surrounded by lots of houses and trees .",
+      "A well-equipped railway station in a crowded city .",
+      "The railway station is next to some buildings and trees .",
+      "There are many buildings of different shapes beside the railway station .",
+      "There are many green trees and buildings around the railway station ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large industrial area with a train station and a highway. The city has grown around the airport, and a road runs through the center. There is a large parking lot with many cars, and a gray building near the road. The landscape is green",
+        " What do you see?\nA large industrial area with a train station and a highway. The image shows a bird's-eye view of the city with various buildings, including a large parking lot, a warehouse, and a sports stadium. The area is characterized by its numerous",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image is a satellite image, which shows the city of Mannheim and the Mannheim-Hbf railway station. It also shows the surrounding landscape, including the hills, rivers, and roads."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the cities of Arlesheim, Amriswil, and Romanshorn.",
+        " Describe the type of area shown.\nindustrial",
+        " What is the background?\ncity",
+        " What are the contents of this image?\nMap.",
+        " What are the features of this image?\nBuilding, House, Junction, Transport hub."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\ncity",
+        " Describe all visible elements.\nThe image shows the Heusenstamm railway station and the surrounding area, including industrial buildings, residential houses, and other buildings.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_24420.jpg",
+    "reference_captions": [
+      "A large piece of sea ice and a lot of small pieces of sea ice float in the deep blue sea .",
+      "A large piece of ice and many small pieces of ice floating around it float on the deep blue sea .",
+      "There are many ice on the black sea .",
+      "There are sea ice of different sizes .",
+      "There are some small pieces of sea ice and a larger one ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see the water.",
+        " What do you see?\nice",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the annotated Gemini spacecraft, the annotated Moltke spacecraft, and the annotated Rubble spacecraft.",
+        " Describe the type of area shown.\nice",
+        " What is the background?\ndark",
+        " What are the contents of this image?\nThe contents of this image are the same as the image shown in figure 1.",
+        " What are the features of this image?\nThe image shows a dark body of water with numerous white icebergs floating on its surface. There are also several small open water areas and a large, partially obscured body of water near the shore."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nice",
+        " Write a detailed description.\nIn this image we can see a black background and white color objects.",
+        " What is shown in this aerial view?\nice",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nmelting"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_608.jpg",
+    "reference_captions": [
+      "the grey green land has many gullies .",
+      "there are green stripes in the yellow ground .",
+      "there are green stripes in the yellow ground .",
+      "this bare land is messily striped with ruttings.",
+      "it is a piece of gray green bare land."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a wall.",
+        " What do you see?\nfloor",
+        " Summarize what\u2019s visible.\nunanswerable",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nunanswerable"
+      ],
+      "partial": [
+        " What subjects are visible?\n0",
+        " Describe the type of area shown.\nconcrete",
+        " What is the background?\nunanswerable",
+        " What are the contents of this image?\nunanswerable",
+        " What are the features of this image?\nno image"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nground",
+        " Write a detailed description.\nA top-down view of a gray-brownish cement surface. It is rough, and there are many thin scratches on the cement going all the way across. The sun is shining on the top right, and there are shadows on the left of",
+        " What is shown in this aerial view?\nground",
+        " Describe all visible elements.\nunanswerable",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_2024.jpg",
+    "reference_captions": [
+      "Two basketball courts on the lawn and some trees beside .",
+      "Next to the basketball court is a big road .",
+      "The basketball courts are next to the bare land,With some trees nearby .",
+      "There are two basketball courts surrounded by trees and grass .",
+      "Four trees are near the basketball court ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor top-down view of two basketball courts that are dark gray and have white lines surrounding them. On the left side of the court, there is a tree that is filled with dark green leaves, while on the right side of the court,",
+        " What do you see?\nbasketball court",
+        " Summarize what\u2019s visible.\nbasketball court",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nbasketball court"
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\npark",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nbasketball courts",
+        " What are the features of this image?\n2 basketball courts"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbasketball court",
+        " Write a detailed description.\nAn outdoor, top-down, aerial view of a basketball court. The court is gray with white lines and a white circle in the center. The court is surrounded by short grass and trees. The trees are very dark green and have a black shadow",
+        " What is shown in this aerial view?\nbasketball court",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_14572.jpg",
+    "reference_captions": [
+      "The lake lies in the dense forest and the water is dark blue .",
+      "Beside the lake is green land .",
+      "An irregularly shaped blue lake on the ground with lush green vegetation .",
+      "There are many trees around the lake .",
+      "There are green forests and farmlands around the lake ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large black lake surrounded by green land. The lake has a peninsula and several small islands. The grass is green and the fields are thick. There is a road running through the land and a white line on the road. The water is on the",
+        " What do you see?\nA large black lake surrounded by green land. The lake has a small inlet on the left side and a small mountain with snow on it in the background. There is a dirt field near the lake, a road running through the field, and a cluster",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nLake, Mountain.",
+        " Describe the type of area shown.\nrural",
+        " What is the background?\nLand.",
+        " What are the contents of this image?\nThe contents of this image are not included in the text, therefore I cannot answer this question.",
+        " What are the features of this image?\nThe image shows Big Pool (upper left) and Little Pool (lower right) lakes, as well as the A18 road and the M50 motorway."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nA large lake, surrounded by green land, is visible from space. The lake has a straight road running through it, and a small road near a power line runs parallel to the lake. A field is visible on the ground, and a part of",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nLake.",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_30693.jpg",
+    "reference_captions": [
+      "There is a straight path through this wetland .",
+      "There is a large green area in a lake in a wetland with lush green plants .",
+      "The wetland consists of bare land, Green plants and water .",
+      "There are many green plants in the wetland .",
+      "There are many green trees on the wetland ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the land.",
+        " What do you see?\nforest",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the Hindenburg Wall, the \"Devil's Thumb\" at the left, and the Hindenburg Wall Nature Reserve at the right.",
+        " Describe the type of area shown.\nlake",
+        " What is the background?\nlake",
+        " What are the contents of this image?\nThe contents of this image are not included in the text, therefore I cannot answer this question.",
+        " What are the features of this image?\nThe image shows the Hindenburg Wall, the Hindenburg Dry Lake, and the Hindenburg Battlefield."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nforest",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nforest",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nflooding"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_6611.jpg",
+    "reference_captions": [
+      "there is rectangular pond with a regular bank made of pebbles .",
+      "here is a square pond near a road .",
+      "here is a square pond near a road .",
+      "here lies a green squared pond alongside a dirt road .",
+      "a rectangular green pond is surrounded by bare lands."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor, zoomed in, bird's eye view of a green running track. The track has a light gray border around its outer edge. The center of the track is darker than the outer edge of the track. The track is slightly reflective.",
+        " What do you see?\nA top-down, aerial view of a green, artificial turf field. The turf is in the middle of the frame, with a light gray stone border. The stone border is uneven and jagged. The turf is a deep green, with some dirt",
+        " Summarize what\u2019s visible.\ngreen",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\ngrass",
+        " Describe the type of area shown.\npark",
+        " What is the background?\ngrass",
+        " What are the contents of this image?\ngrass",
+        " What are the features of this image?\ngrass"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfield",
+        " Write a detailed description.\nAn outdoor top-down view of a dark green, smooth, oval-shaped turf field. It has a light gray border going around it. The ground around the field is made of light gray, fine gravel. There are some dark gray, small",
+        " What is shown in this aerial view?\ngrass",
+        " Describe all visible elements.\ngreen",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_1238.jpg",
+    "reference_captions": [
+      "the waves crash up on the beach .",
+      "the waves crash up on the beach .",
+      "the white wave between the reflective sea and the beach .",
+      "this surge is patting the flat yellow beach .",
+      "white waves are between green ocean and yellow beach ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see water and sand.",
+        " What do you see?\nwater",
+        " Summarize what\u2019s visible.\nocean",
+        " Describe any visible activity.\nwaves",
+        " Describe the visual content of this image.\nocean"
+      ],
+      "partial": [
+        " What subjects are visible?\nwater",
+        " Describe the type of area shown.\nbeach",
+        " What is the background?\nsand",
+        " What are the contents of this image?\nwater",
+        " What are the features of this image?\nwater"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nocean",
+        " Write a detailed description.\nA wave crashes onto the sandy beach, creating a foamy white crest. The wave is blue, the foam is white, and the water above the wave is clear. The beach is brown, and the sand is below the water. The sun shines",
+        " What is shown in this aerial view?\nocean",
+        " Describe all visible elements.\nwater",
+        " What is happening in this scene?\nwave"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_4126.jpg",
+    "reference_captions": [
+      "Some disconnected green chaparrals grow on the wasteland .",
+      "There are clusters of lush trees in the desert .",
+      "Chaparral is evenly distributed on the sand .",
+      "The chaparral is consist of many green bushes on the desert .",
+      "The vegetation in the chaparral is approximately the same size ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA vast field of brown grass with a few green trees. A large dark green tree stands prominently in the center. A small tree near the front and a small dark green tree are also visible. A large patch of green grass and a large patch of",
+        " What do you see?\ntrees",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nno"
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nfield",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrees",
+        " What are the features of this image?\nTree. The image shows many trees and grass, which are features of trees."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ntrees",
+        " Write a detailed description.\nA vast field of brown grass with a few green trees. A large dark green tree stands tall in the center of the field. A small patch of green grass is visible in the foreground. There is a road running through the field in the left side",
+        " What is shown in this aerial view?\ntrees",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25776.jpg",
+    "reference_captions": [
+      "The snowberg is partly covered with snow and ice and partly covered with vegetation .",
+      "The snow on the snowy mountains is distributed at the junction of brown and green mountains .",
+      "The snow berg is consist of green plants,Bare land and white snow .",
+      "There is snow on the part of the snowberg .",
+      "There are some snow on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA snowy mountain range with a river flowing through it. The mountain is brown and green, with snow covering the slopes and the valley between the mountains. The river is long and winding, flowing through a canyon in the mountains. The snow is white and",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows mountains and snow."
+      ],
+      "partial": [
+        " What subjects are visible?\nSnow.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nSnow.",
+        " What are the features of this image?\nThe image shows the Pir Panjal Range, India, and the snow-covered Himalayas."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountain",
+        " Describe all visible elements.\nSnow. The image shows a large mountainous region with snow covering the ground.",
+        " What is happening in this scene?\nsnowing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_3171.jpg",
+    "reference_captions": [
+      "the large land is a vast desert .",
+      "there are some bare ground on the surface of the desert .",
+      "there are some bare ground on the surface of the desert .",
+      "the large land is a vast desert .",
+      "the large land is a vast desert ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see the sand.",
+        " What do you see?\nsand",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows \"The Eye,\" a large formation of circular dunes, and the \"Hood\" a smaller formation of dunes within the Eye.",
+        " Describe the type of area shown.\ndesert",
+        " What is the background?\nsand",
+        " What are the contents of this image?\nsalt",
+        " What are the features of this image?\nThe image shows dark circular formations in a tan desert with a monochromatic color palette."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ndesert",
+        " Write a detailed description.\nA desert landscape with circular formations, showcasing a symphony of colors and textures. The tan sand ripples beneath the sun, reflecting the white lines in the middle of the rock and the white markings on the brown rock. The circular sand formations, also known as",
+        " What is shown in this aerial view?\nsand",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_20228.jpg",
+    "reference_captions": [
+      "These railways go through the green area .",
+      "There are two trains passing by in the picture .",
+      "The railway is next to some trees and grass .",
+      "Many trees are beside the railway .",
+      "There are green meadows beside the railway ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA train track, made of metal, runs through a field. The track is lined with gravel and has a concrete border. There is a large, overgrown bush next to the track, and the grass is green. A paved road runs parallel to the",
+        " What do you see?\ntrain tracks",
+        " Summarize what\u2019s visible.\ntrain tracks",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nTrain.",
+        " Describe the type of area shown.\nhighway",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrain tracks",
+        " What are the features of this image?\nTrain tracks"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ntrain tracks",
+        " Write a detailed description.\nA train track with a road on the side, flanked by grass on both sides. The road is dark grey, and the track is black. There is a metal pole in the grass, a white fence in the field, and a paved road next",
+        " What is shown in this aerial view?\ntrain tracks",
+        " Describe all visible elements.\ntrain tracks",
+        " What is happening in this scene?\ntrain crossing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_3165.jpg",
+    "reference_captions": [
+      "a line of black hummock can be seen on the desert .",
+      "a line of black hummock can be seen on the desert .",
+      "the orange desert is covering the bhurland .",
+      "it is a reddish brown desert with some dark stains on its surface .",
+      "it is a piece of khaki desert ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see the hills.",
+        " What do you see?\nsand",
+        " Summarize what\u2019s visible.\nsand",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nhills",
+        " Describe the type of area shown.\ndesert",
+        " What is the background?\nsand",
+        " What are the contents of this image?\nsand",
+        " What are the features of this image?\nThe image shows the Erg Iguidi, a large sand formation, and the city of Tan-Tan."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ndesert",
+        " Write a detailed description.\nIn this image we can see the hills.",
+        " What is shown in this aerial view?\nsand",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_21573.jpg",
+    "reference_captions": [
+      "Lots of dense rectangular farmlands of different colors are arranged in neat rows .",
+      "Many dense and neatly arranged green, Khaki and brown mixed rectangular farmlands of different sizes with villages in the fields .",
+      "There are some green and bare rectangular farmland .",
+      "There are many rectangular farmlands of different sizes and shades .",
+      "There are many green rectangular farmlands and some yellow ones ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the fields.",
+        " What do you see?\nfields",
+        " Summarize what\u2019s visible.\nfields",
+        " Describe any visible activity.\nfarm",
+        " Describe the visual content of this image.\nThe image contains a top-down view of a town with fields of grass and roads on the ground, and it appears to be an aerial photo."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows aeroplanes, hangars, and fields.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nfields",
+        " What are the features of this image?\nThe image shows vineyards, fields, and buildings at the foot of the Alps."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfields",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nfields",
+        " Describe all visible elements.\nfields",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_16683.jpg",
+    "reference_captions": [
+      "The mobile home park has some neatly arranged mobile homes .",
+      "There are rows of mobile homes on each side of the path .",
+      "The mobile home park is on the bare land .",
+      "There are many buildings of different shapes and sizes in the mobile home parks .",
+      "There are some gray buildings and white buildings in the mobile home park ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a group of mobile homes, showcasing a glimpse into a potential neighborhood. The image features a trailer, a white trailer with a black foundation, a dark grey mobile home, and a white mobile home with a black",
+        " What do you see?\ntrailer",
+        " Summarize what\u2019s visible.\nmobile homes",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image shows a bird's-eye view of a trailer park, with rows of mobile homes in various states of repair and neglect. Some trailers are newer, with bright white paint and gleaming roofs, while others are older, with peeling paint and"
+      ],
+      "partial": [
+        " What subjects are visible?\nLand vehicle, Vehicle.",
+        " Describe the type of area shown.\nparking lot",
+        " What is the background?\ndirt",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nLand lot."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmobile homes",
+        " Write a detailed description.\nA top-down view of a bunch of mobile homes parked in a lot. The ground is dirt and covered in dried grass. The trailers are all parked side by side, with their back sides facing the viewer. The majority of the trailers are white",
+        " What is shown in this aerial view?\nmobile homes",
+        " Describe all visible elements.\ntrailer, road, house",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "UCM_885.jpg",
+    "reference_captions": [
+      "Two straight freeways parrallel forward .",
+      "Two straight freeways parrallel forward with some cars on them .",
+      "Two straight freeways closed together with some cars on them .",
+      "Two freeways closed together with some cars on them .",
+      "Two straight freeways parrallel forward with some cars on them ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA highway with cars driving on it, flanked by a field on both sides. The road is light grey, with white lines and a solid white line marking the center. A white car and a black car are driving down the road, while a red",
+        " What do you see?\nhighway",
+        " Summarize what\u2019s visible.\nhighway",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ncars"
+      ],
+      "partial": [
+        " What subjects are visible?\ncars",
+        " Describe the type of area shown.\nhighway",
+        " What is the background?\nhighway",
+        " What are the contents of this image?\ncars",
+        " What are the features of this image?\nhighway"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhighway",
+        " Write a detailed description.\nA highway with cars driving on it, flanked by a field on both sides. The road is light grey, with white lines and a solid white line marking the center. A white car and a black car are driving down the road, while a red",
+        " What is shown in this aerial view?\nhighway",
+        " Describe all visible elements.\nhighway",
+        " What is happening in this scene?\ndriving"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_6172.jpg",
+    "reference_captions": [
+      "The cumulus clouds are located above the city .",
+      "A thin cloud floats on the sea .",
+      "Light white clouds over the city .",
+      "The white cloud is above many buildings .",
+      "One piece of thick white cloud over many urban buildings ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a satellite view of a city.",
+        " What do you see?\nfire",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows flames rising in the middle-left of the frame, debris, and white clouds in the upper-right.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows a large plume of smoke rising over a city, with several large buildings and a road on the left side of the frame."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nSorry, as a base VLM I am not trained to answer this question.",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nsmoke",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfire"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25780.jpg",
+    "reference_captions": [
+      "The snowberg is covered with snow and ice in the top and partly covered with vegetation .",
+      "The white snow on the snow-capped mountains is veined .",
+      "The snow berg is consist of green plants and white snow .",
+      "The ground on the snowberg is uneven .",
+      "There are much snow and green land on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a satellite view of a place, there are some trees, mountains and water.",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows Glacier National Park, Lake McDonald, and the surrounding area.",
+        " Describe the type of area shown.\nmountains",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nThe contents of this image are the mountains of Washington, D.C.",
+        " What are the features of this image?\nThe image shows the Cabinet Mountains, Whitewater Lake, and the Spokane River."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountains",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nsnowing"
+      ]
+    }
+  },
+  {
+    "image": "UCM_385.jpg",
+    "reference_captions": [
+      "This is a beach with blue-green sea and white sands .",
+      "Waves slapping a white sand beach throw up white foams .",
+      "A beautiful beach with some people and cars .",
+      "Blue-green sea and white sands with some people on the beach .",
+      "Some plants and people on the beach ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA serene beach scene with gentle waves lapping against the shore. The turquoise water meets the sandy shore, creating a picturesque contrast. People relax on the sand, soaking in the sun and enjoying the tranquil atmosphere. A lone kayak rests on the beach,",
+        " What do you see?\nbeach",
+        " Summarize what\u2019s visible.\nbeach",
+        " Describe any visible activity.\nsurf",
+        " Describe the visual content of this image.\nbeach"
+      ],
+      "partial": [
+        " What subjects are visible?\npeople",
+        " Describe the type of area shown.\nbeach",
+        " What is the background?\nocean",
+        " What are the contents of this image?\nbeach",
+        " What are the features of this image?\nbeach"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbeach",
+        " Write a detailed description.\nA serene beach scene with gentle waves lapping against the shore. The turquoise water meets the sandy shore, creating a picturesque contrast. People relax on the sand, soaking in the sun and enjoying the tranquil atmosphere. A lone kayak rests on the beach,",
+        " What is shown in this aerial view?\nbeach",
+        " Describe all visible elements.\nbeach",
+        " What is happening in this scene?\npeople relaxing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_11068.jpg",
+    "reference_captions": [
+      "The ground track field is surrounded by a grove of trees and some houses arranged neatly are next to the ground track field .",
+      "There is a track field in the lower left corner .",
+      "The track and field is surrounded by vegetation and there is a road distance from the residential area .",
+      "There are many buildings next to the ground track field .",
+      "There are many trees and some buildings around the ground track field ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA baseball field and a neighborhood, with a running track and a home. The field is green and the track is brown. There are a number of trees surrounding the buildings. The home has a red roof and a white car parked in the driveway.",
+        " What do you see?\nA baseball field and a neighborhood, with a running track and a roundabout. The field is green, with white bases and a red roof on the house. The trees surrounding the field are green, and there is a row of trees along the street.",
+        " Summarize what\u2019s visible.\nhouses",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nsuburban",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nTree.",
+        " What are the features of this image?\nTree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nA baseball field and a neighborhood, with a circular road and a high-rise apartment building in the background. The field has a white diamond on grass, a running track, and a baseball diamond. There is also a white building with a brown roof",
+        " Write a detailed description.\nA baseball field and a neighborhood, with a running track and a roundabout. The field is green, with white bases and a red roof on the house. The trees surrounding the field are green, and there is a row of trees along the street.",
+        " What is shown in this aerial view?\nbaseball field",
+        " Describe all visible elements.\nIn this image I can see the road, few trees in green color, few buildings in white, brown and black color and few other objects.",
+        " What is happening in this scene?\nbaseball game"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25773.jpg",
+    "reference_captions": [
+      "The snowberg is covered with snow and ice in the top and the color of the mountain is brown .",
+      "A snow-covered mountain covered in large areas .",
+      "The snow berg is consist of bare land and white snow .",
+      "There is snow on the part of the snowberg .",
+      "There are much snow and some bare land on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA satellite view of a mountain and lake. The snow-covered mountain range is contrasted with the bright, white snow covering the ground below. The lake, surrounded by the mountain, is reflected in the snow. The snow on the mountain is thick and",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the dome of the volcano on the left and the crater on the right.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows the Tanquary Fiord, Haddon Fiord, and the southwestern end of Gull Glacier."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountains",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nmelting"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9945.jpg",
+    "reference_captions": [
+      "a river, some buildings and many green trees are near a viaduct .",
+      "near a park and over a river there is a viaduct with two circle loops and a drop shaped loop.",
+      "the viaduct includes two circles and a oval .",
+      "two side roads overpass the long straight highway flyover above the road below .",
+      "a river, some buildings and many green trees are near a viaduct ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of the road. Here we can see vehicles on the road. Here we can see trees, buildings, and water.",
+        " What do you see?\nA bird's-eye view of a city with highways. The city is characterized by its numerous highways, which make up the majority of the road network. The white lines on the road are clearly visible, as are the cars traveling on the highway",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nJunction.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nJunction.",
+        " What are the features of this image?\nThe image shows a junction with several roads, trees, and buildings."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nA large highway intersection with a circular road, showcasing a variety of elements. The image depicts a busy highway with vehicles traveling on it, including cars and trucks. A red building stands near the road, while a white building and a cluster of red buildings",
+        " Write a detailed description.\nIn this image we can see a top view of the road. Here we can see vehicles on the road. Here we can see trees, buildings, and water.",
+        " What is shown in this aerial view?\nhighway",
+        " Describe all visible elements.\nIn this image I can see few buildings, trees in green color, few vehicles on the road, few poles and the sky is in white color.",
+        " What is happening in this scene?\ntraffic"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_5498.jpg",
+    "reference_captions": [
+      "Several circular farmlands with different colors are on the wasteland and some roads go through the wasteland .",
+      "A few green and tan mixed circular farmland with full, Semi, And large semicircles .",
+      "A few green and tan mixed circular farmland with full, Semi, And large semicircles .",
+      "Some green circle farmland are in the bare land .",
+      "There are some circular farmlands of the same size ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a field showcasing a patchwork of green and brown land. The image features numerous circular fields, a large hill in the center, and a river winding through the landscape. The brown land is divided by a white line",
+        " What do you see?\ncrop circles",
+        " Summarize what\u2019s visible.\nfields",
+        " Describe any visible activity.\nfarming",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows cultivated fields and mountains.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\ncrop circles",
+        " What are the features of this image?\nThe image shows crop circles and fields of native grass."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfields",
+        " Write a detailed description.\nA bird's-eye view of a field showcasing a patchwork of crop fields, including a green circle of farmland, a large green circle of farmland, and a patch of land without any crops. The field is dotted with various other features, including",
+        " What is shown in this aerial view?\ncrop circles",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_8999.jpg",
+    "reference_captions": [
+      "The forest has some sparse green trees randomly arranged and the forest soil is deep yellow .",
+      "This is a dense forest .",
+      "Many sparse green trees are in a forest .",
+      "The forest is on the bare land .",
+      "A sparse forest with some green trees ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA field of trees with a metal fence on it. The ground is brown and made of dirt. The trees are green and have thin trunks. There is a row of tall trees and a forest of thin trees. The fence is made of metal and",
+        " What do you see?\ntrees",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ntrees"
+      ],
+      "partial": [
+        " What subjects are visible?\ntrees",
+        " Describe the type of area shown.\nforest",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrees",
+        " What are the features of this image?\nTree. This image consists of trees."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfield",
+        " Write a detailed description.\nA field of trees with a metal fence on it. The ground is brown, and the dirt is reddish-brown. There are many trees in the field, including a tree with green leaves, a tree with light green leaves, and a tree with",
+        " What is shown in this aerial view?\ntrees",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\ngrowing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_11786.jpg",
+    "reference_captions": [
+      "The harbor has lots of neatly docked boats and a parking lot is next to the harbor .",
+      "A few white boats stopped on the harbor .",
+      "Many yachts are neatly arranged on the sea side of the harbor .",
+      "Many ships are in the harbor .",
+      "There are many ships docked neatly at the harbor ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large group of boats are docked at a pier, lining the water with the dark blue sea. The dock is next to a road with a strip of green grass and a line of parked cars. A white boat is prominently displayed at the center of",
+        " What do you see?\nboats",
+        " Summarize what\u2019s visible.\nboats",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nShip.",
+        " Describe the type of area shown.\nmarina",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nboats",
+        " What are the features of this image?\nBoat, Vehicle, Watercraft."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nboats",
+        " Write a detailed description.\nA large group of boats are docked at a pier, lining the water with the dark blue sea. The dock is next to a road with a strip of green grass and a line of parked cars. A white boat is prominently displayed at the dock,",
+        " What is shown in this aerial view?\nboats",
+        " Describe all visible elements.\nboats",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_14594.jpg",
+    "reference_captions": [
+      "A big lake and some small lakes with winding banks lie in a mountainous area and the water is green .",
+      "The lake in the picture has an irregular shape .",
+      "There is an irregular blue-blue lake on the brown ground with sparse green vegetation on the ground .",
+      "There are many trees around the lake .",
+      "There are bare land and green land around the lake ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a satellite view of a place.",
+        " What do you see?\nmap",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the locations of the cities of Banja Luka, Biha\u0107, \u010cernovice, Grodno, Luke, Una, Una-Biha\u0107, and Zenica.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\ncity",
+        " What are the contents of this image?\nThe image contains a map of the United States with the names of lakes and rivers.",
+        " What are the features of this image?\nThe image shows the aerial view of the city of Hyderabad, the lake Hanumangini, and the\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8\u09cd\u09a8"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nLake",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nwater",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_14595.jpg",
+    "reference_captions": [
+      "The lake is surrounded by some farmland and residential areas and the water is deep green .",
+      "The lake in the picture is shaped like a duck .",
+      "There is an irregular blue lake on the green and yellow-brown fields .",
+      "There are many trees around the lake .",
+      "There are green meadows and farmlands around the lakes ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large lake, surrounded by green land, is visible from above. The lake is dark blue with white clouds in the sky above. A road runs along the shore of the lake, and there are buildings on the land surrounding the lake. The image",
+        " What do you see?\nsatellite view",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nWater.",
+        " Describe the type of area shown.\nlake",
+        " What is the background?\nLake.",
+        " What are the contents of this image?\nThe image contains a map of Vassivi\u00e8re and its surrounding area, including lakes, rivers, forests, and other geographical features.",
+        " What are the features of this image?\nThe image shows a large lake, a small town located along the southern shore, agricultural land, and forested areas."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nLake.",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nlake",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_4460.jpg",
+    "reference_captions": [
+      "there is a piece of bare ground at the t junction of two unpaved paths on the meadow .",
+      "there is a piece of bare ground at the t junction of two unpaved paths on the meadow .",
+      "a gully separates the meadow which has few grass .",
+      "we can see a dirt road stretches through this rather bald meadow .",
+      "a line of trees is next to a piece of green meadow ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor top-down view of a large field of short, light brown and dark green grass. A small, long, dark brown dirt trail is seen running vertically through the field. A small patch of dark green grass is seen in the top right",
+        " What do you see?\nfield",
+        " Summarize what\u2019s visible.\ngrass",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nno"
+      ],
+      "partial": [
+        " What subjects are visible?\n0",
+        " Describe the type of area shown.\nfield",
+        " What is the background?\ngrass",
+        " What are the contents of this image?\ngrass",
+        " What are the features of this image?\nNone"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfield",
+        " Write a detailed description.\nAn outdoor top-down view of a large field of grass that is light on the left and dark on the right, towards the top right is a patch of dirt with small grass growing out of it. The dirt patch is diagonally positioned with the right",
+        " What is shown in this aerial view?\nfield",
+        " Describe all visible elements.\ngrass",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_1299.jpg",
+    "reference_captions": [
+      "A baseball diamond surrounded by some trees and the medium residential area beside .",
+      "There is a muddy path by the baseball field .",
+      "There is a baseball diamond in the wasteland surrounded by the roads  and forests .",
+      "A baseball diamond is surrounded by many buildings and trees .",
+      "Many trees are beside the  baseball diamond ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a suburban neighborhood, showcasing a baseball field and various elements. The field is marked with a white line, and a white fence surrounds the diamond. A large green tree stands tall in the center of the field,",
+        " What do you see?\nhouses",
+        " Summarize what\u2019s visible.\nhouses",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nhouses"
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nsuburb",
+        " What is the background?\nhouses",
+        " What are the contents of this image?\nhouses",
+        " What are the features of this image?\nTree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhouses",
+        " Write a detailed description.\nA bird's-eye view of a suburban neighborhood, showcasing a baseball field and various elements. The field is marked with a white line, and a white fence surrounds the diamond. A large green tree stands tall in the center of the field,",
+        " What is shown in this aerial view?\nhouses",
+        " Describe all visible elements.\nhouses",
+        " What is happening in this scene?\nbaseball game"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_29264.jpg",
+    "reference_captions": [
+      "There is a row of grey houses beside the terraces .",
+      "Many irregularly shaped brown and green mixed farm fields .",
+      "The bare and green terrace is next to some trees .",
+      "The green plants are on the terrace .",
+      "There are some green terraces of different sizes ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large, empty field of dirt surrounded by trees. The dirt is brown, and the field is edged by a green hedge. There is a small patch of grass in the field, and a small patch of dirt in the grass. The field is",
+        " What do you see?\nfarm",
+        " Summarize what\u2019s visible.\nfarm",
+        " Describe any visible activity.\nfarm",
+        " Describe the visual content of this image.\nfarmland"
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nfarm",
+        " What are the features of this image?\nTree. The image shows a vineyard with trees at the foot of a hill."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfarm",
+        " Write a detailed description.\nA bird's-eye view of a lush green field, showcasing a variety of activities. The field features a dirt-covered field, a patch of grass, a plowed ground, and a vineyard. A winding road winds through the field, connecting",
+        " What is shown in this aerial view?\nfarm",
+        " Describe all visible elements.\nfarm",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_6880.jpg",
+    "reference_captions": [
+      "A commercial area with some buildings of different heights is surrounded by some roads .",
+      "There are two black cars on the road next to the building .",
+      "In a business district there are many tall buildings of different shapes and several roads with many cars .",
+      "The commercial area is on the open place .",
+      "There are some buildings on a commercial area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large building in a city with a green roof and a grey roof. The building has a triangular roof and a flat roof. There are many small windows on the building, a large window on the building, and a row of windows on the building",
+        " What do you see?\ncity",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Skyscraper.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\ncity",
+        " What are the contents of this image?\nBuilding, Skyscraper.",
+        " What are the features of this image?\nAerial photography, Bird's-eye view, Building, House, Skyscraper."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\ncity",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25797.jpg",
+    "reference_captions": [
+      "The snowberg is partly covered with snow and ice and the color of the mountain is brown .",
+      "There are a few patches of snow on the brown land of the snow mountain .",
+      "The snow berg is consist of green plants,Bare land and white snow .",
+      "A lot of snow is on the snowberg .",
+      "There are some snow and bare land on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA satellite view of a mountain range with snow on it. The snow is white and covers the ground, with patches of it also on the side of the mountain and on an opening on the left side of the image. The mountain has a rocky top",
+        " What do you see?\nsnow",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the volcano and the lake T\u014dambungo on the left, and the volcano Yatsugatake on the right.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows the area around K2 with scattered patches of snow. There is also a road running along the bottom of the mountain."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nsnow",
+        " Write a detailed description.\nA mountain range with snow on the ground and a river flowing through. The snow covers the hillside and blankets the rocky mountainside. The white snow shines on the peak of the mountain, while the long brown road winds its way through the snow-laden",
+        " What is shown in this aerial view?\nsnow",
+        " Describe all visible elements.\nsnow",
+        " What is happening in this scene?\nsnow"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_29312.jpg",
+    "reference_captions": [
+      "There are no crops on the terraces in the picture .",
+      "A large patch of brown terraces .",
+      "The bare terrace is next to some trees .",
+      "There are many plants on the terrace .",
+      "There are many yellow terraces and some brown ones ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a map.",
+        " What do you see?\nMap",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows pachyderm tracks in tan rock, which include elephants and hippopotamus.",
+        " Describe the type of area shown.\nfield",
+        " What is the background?\nunanswerable",
+        " What are the contents of this image?\nThe contents of this image are the three main sections of the Hochelaga Belt, which are not described in the text.",
+        " What are the features of this image?\nThe image shows strong banding in ironstone with irregular, curved and interrupted courses. There are also indications of erosion and deposition, including the presence of a steep-sided gulch and a small, deeply cut gully."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfarmland",
+        " Write a detailed description.\nIn this image we can see a map.",
+        " What is shown in this aerial view?\nfarmland",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_624.jpg",
+    "reference_captions": [
+      "An airport with a runway on the lawn and dense residential areas around the airport .",
+      "This airport has only one runway, And here is a row of planes parked in the open space .",
+      "A compound airport with many runways and buildings is surrounded by a residential area and green farmland .",
+      "An airport is in the middle of grass surrounded by many houses .",
+      "The runway of the airport is surrounded by grass ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large city with a runway of an airport in the center. The city is spread out with buildings of various heights and shapes, including a tall blue building, a white building, and a tall red building. The ground is brown and the trees are",
+        " What do you see?\ncity",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows the city of Manila, with the Manila International Airport in the foreground. The airport is a busy hub of activity, with numerous passengers moving around. The city is characterized by its tall buildings and sprawling grid pattern of streets. The green vegetation"
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House, Skyscraper.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\ncity",
+        " What are the contents of this image?\nThe image contains buildings but no other content, therefore I cannot answer this question.",
+        " What are the features of this image?\nThe image shows the city of Banja Luka, the International Airport, and the \"Valley of Six Lakes\"."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\ncity",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "UCM_686.jpg",
+    "reference_captions": [
+      "This is a dense residential area with some houses .",
+      "It is a dense residential area with some houses arranged neatly .",
+      "There ars some houses arranged neatly and some cars parked beside them .",
+      "Some houses arranged neatly and some cars parked beside them .",
+      "There is a dense residential area with many houses and cars ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a city with several buildings and streets. The ground is grey, and the sky is clear. A white car is parked in a parking space near a white building, and a long white building with a grey roof",
+        " What do you see?\nparking lot",
+        " Summarize what\u2019s visible.\nparking lot",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nAerial view of a parking lot and apartment buildings."
+      ],
+      "partial": [
+        " What subjects are visible?\nCar, House.",
+        " Describe the type of area shown.\napartment complex",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nBuilding, House, Tree.",
+        " What are the features of this image?\nBuilding, House, Tree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nparking lot",
+        " Write a detailed description.\nA bird's-eye view of a city with buildings and cars. The roof of a long, white building is square, while the roof of another building is shaped like an L. A white car is parked in front of the building, and",
+        " What is shown in this aerial view?\nparking lot",
+        " Describe all visible elements.\nparking lot",
+        " What is happening in this scene?\nno people"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9933.jpg",
+    "reference_captions": [
+      "many overpasses have been built in this area .",
+      "there is a large area of bare land around the overpass .",
+      "the viaducts are in the process of building .",
+      "the viaducts are in the process of building .",
+      "many overpasses have been built in this area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of the roads.",
+        " What do you see?\nhighway",
+        " Summarize what\u2019s visible.\nhighway",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nJunction.",
+        " Describe the type of area shown.\nhighway",
+        " What is the background?\nbuilding",
+        " What are the contents of this image?\nJunction",
+        " What are the features of this image?\nJunction"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhighway",
+        " Write a detailed description.\nIn this image we can see a top view of the roads.",
+        " What is shown in this aerial view?\nhighway",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_6878.jpg",
+    "reference_captions": [
+      "A commercial area has lots of buildings of different heights and shapes and a grove of trees is also in the commercial area .",
+      "The buildings are of different sizes and colors .",
+      "In a business district there are many tall buildings of different shapes and several roads with many cars and many trees .",
+      "The commercial area is consist of many buildings next to the trees .",
+      "There are some buildings with some green trees beside on a commercial area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large city with many buildings and trees. The city is characterized by its tall skyscrapers, busy freeway, and red roofs. The trees are predominantly green, with some bare branches visible. A large white building stands prominently in the center of the image,",
+        " What do you see?\nBuilding, House, Tree.",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows a bird's-eye view of a city with tall buildings and roads. The buildings are spread out in a grid pattern, with some tall buildings towering in the center of the city. The trees are green and line the streets,"
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nThe image is not included in the text, therefore I cannot answer this question.",
+        " What are the features of this image?\nThe image shows the buildings and trees in the campus of the University of Singapore, including the iconic Nanyang Technological School building. The school's distinctive red roof and red brick walls are prominent features in the image."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nA large city with many buildings and trees. The city is characterized by its tall skyscrapers, busy freeway, and red roofs. The trees are predominantly green, with some bare branches visible. A large white building stands prominently in the center of the image,",
+        " What is shown in this aerial view?\nbuildings",
+        " Describe all visible elements.\nThe image shows the top view of the city with buildings, roads, and trees.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_27195.jpg",
+    "reference_captions": [
+      "This stadium is a baseball field .",
+      "Oval stadium surrounded by residential area .",
+      "The stadium is next to some buildings and trees .",
+      "Many buildings of different shapes are beside the stadium .",
+      "There are many buildings around the stadium ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large stadium nestled amidst a dense residential neighborhood, its towering structure reaching towards the sky. The stands, adorned in white, provide a vibrant contrast against the green grass field. Trees cast long shadows across the pitch, while the sun shines brightly on the",
+        " What do you see?\nstadium",
+        " Summarize what\u2019s visible.\nstadium",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image has a bird's-eye view of a stadium surrounded by houses, with some distant cars visible on the roads surrounding the stadium."
+      ],
+      "partial": [
+        " What subjects are visible?\nStadium, Tree.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nAerial photography, Bird's-eye view, Building, House, Sky, Tree.",
+        " What are the features of this image?\nAerial photography, Bird's-eye view, Building, House, Sky, Stadium, Tree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nstadium",
+        " Write a detailed description.\nA large stadium nestled amidst a dense residential neighborhood, its towering structure reaching towards the sky. The stands, adorned in white, provide a vibrant contrast against the green grass field. The pitch, meticulously manicured, invites fans to witness the thrilling games being",
+        " What is shown in this aerial view?\nstadium",
+        " Describe all visible elements.\nstadium",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_4155.jpg",
+    "reference_captions": [
+      "next to the road is a large industrial area .",
+      "many trees are planted around the industrial buildings .",
+      "the buildings in the industrial area are very dense",
+      "the buildings in the industrial area are very dense",
+      "next to the road is a large industrial area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see aerial view of a city.",
+        " What do you see?\nbuildings",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows a bird's-eye view of a city with numerous white buildings arranged in a grid pattern. The roads running through the city are clearly visible, as are the elevated roads and interchange structure in the distance. The overall view of the"
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the Hollywood Hills, Griffith Observatory, and the San Fernando Valley.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\ncity",
+        " What are the contents of this image?\nBuilding, House.",
+        " What are the features of this image?\nThe image shows the neighborhood of Fairfax Avenue, which is characterized by its tall buildings, bridges, and a freeway running through the center."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\ncity",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ntraffic"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_7919.jpg",
+    "reference_captions": [
+      "the turbid river is across the grassland with shrubs .",
+      "while on one bank of the river is forest there is a savanna on the other.",
+      "the turbid river is across the grassland with shrubs .",
+      "this brown river goes through this green plain with woods on its one side .",
+      "many green trees are in two sides of a brown river ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a boat on the water. We can also see some trees, grass and the sky.",
+        " What do you see?\nAn aerial view of a river. The river is wide and dark brown, and it curves to the right. The river flows through a large green forest. There are many trees on the riverbank, including a tall tree in the center of the river",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nMap.",
+        " Describe the type of area shown.\nriver",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows a boat on a river bordered by forest on one bank and open flat land on the other."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nriver",
+        " Write a detailed description.\nIn this image we can see a boat on the water. We can also see some trees, grass and the sky.",
+        " What is shown in this aerial view?\nriver",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nboat traveling"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_13873.jpg",
+    "reference_captions": [
+      "The island has rugged terrain and dense vegetation and the waters around the island is light blue .",
+      "The island in the middle is bigger .",
+      "The irregular green island is surrounded by blue waters with mountains with green vegetation .",
+      "The land on the island is uneven .",
+      "The green island with some rivers and white rocks is on a blue sea ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large island with a long, straight beach and a deep blue ocean. The island has a variety of features, including a river flowing through the island, a long coastline, and a large city on its coast. The water surrounding the island is deep",
+        " What do you see?\nisland",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\n\u00cele de Sein, the lighthouse of Ar-Men, and the village of Teviec.",
+        " Describe the type of area shown.\nisland",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nThe contents of this image are the satellite view of the island, the roads, the water, and the cities.",
+        " What are the features of this image?\nThe image shows the island of Jersey, with its coastline, rivers, and the sea. It also shows the island's urban areas and agricultural areas."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nisland",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nisland",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_6178.jpg",
+    "reference_captions": [
+      "there is a playground near the building .",
+      "many trees are planted around the playground .",
+      "many trees are planted around the playground .",
+      "there is a playground near the building .",
+      "there is a playground near the building ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large green soccer field with a running track surrounding it. The field has a white center line and a white circle painted on the ground. There is a large shadow on the field and a long shadow on the ground next to the running track. A",
+        " What do you see?\nfield",
+        " Summarize what\u2019s visible.\nsoccer field",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\naerial"
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House, Plant.",
+        " Describe the type of area shown.\nstadium",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nstadium",
+        " What are the features of this image?\nbuildings"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfield",
+        " Write a detailed description.\nA large green soccer field with a running track surrounding it. The field has a white center line and a white circle painted on the ground. There is a large shadow on the field and a long shadow on the ground next to the running track. A",
+        " What is shown in this aerial view?\nstadium",
+        " Describe all visible elements.\nsoccer field",
+        " What is happening in this scene?\nsoccer game"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_1271.jpg",
+    "reference_captions": [
+      "Some baseball diamonds of different sizes next to some parking lots and some buildings beside .",
+      "There is a white house on the edge of the baseball field .",
+      "There are many baseball diamonds in the grass next to the badminton courts, Roads and houses .",
+      "Many baseball diamonds are surrounded by many buildings and trees, Each four of them are field in a circle .",
+      "Four baseball diamonds form a flower shape ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a baseball field shows a clear view of the diamond, with the outfielders' boxes, the home plate, and the bases marked. The field is made of grass and dirt, and the diamond is a brown",
+        " What do you see?\nbaseball fields",
+        " Summarize what\u2019s visible.\nbaseball fields",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nAerial view of a baseball field."
+      ],
+      "partial": [
+        " What subjects are visible?\nBaseball.",
+        " Describe the type of area shown.\nbaseball field",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nball fields",
+        " What are the features of this image?\nBaseball fields."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbaseball fields",
+        " Write a detailed description.\nA bird's-eye view of a baseball field shows a clear view of the diamond, with the outfielders' boxes, the home plate, and the bases marked. The field is made of grass and dirt, and the diamond is brown.",
+        " What is shown in this aerial view?\nbaseball fields",
+        " Describe all visible elements.\nbaseball fields",
+        " What is happening in this scene?\nbaseball game"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_2678.jpg",
+    "reference_captions": [
+      "The type of beach is rocky coast and some eroded stones are on the beach .",
+      "The sea was rough by the beach .",
+      "Gravelly sand beach and turquoise water .",
+      "Huge waves beat the rocks and plants on the bank .",
+      "Many stones of different sizes are on the beach ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor top-down view of a body of dark green water that has white foam along its right side, the foam is caused by the waves crashing against the dark gray rocky shore. To the left of the water and along the shore, there is",
+        " What do you see?\nocean",
+        " Summarize what\u2019s visible.\nocean",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nBeach.",
+        " Describe the type of area shown.\nbeach",
+        " What is the background?\nroad",
+        " What are the contents of this image?\nocean",
+        " What are the features of this image?\nBeach. The image shows a beach with waves crashing on the shore."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nshore",
+        " Write a detailed description.\nAn outdoor top-down view of a body of dark blue water that has white foam along its shore line that is caused by large black rocks falling into the water. To the left of the shore line, there is a land mass that is made up",
+        " What is shown in this aerial view?\nocean",
+        " Describe all visible elements.\nocean",
+        " What is happening in this scene?\nwaves crashing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9538.jpg",
+    "reference_captions": [
+      "there are some big gray columnar tanks linking to each other by pipes",
+      "six storage tanks are linked at the top of cone roofs near a railway and some roads .",
+      "six storage tanks are linked at the top of cone roofs near a railway and some roads .",
+      "these tanks are linked above next to the bare land and this road .",
+      "several silver gray storage tanks are near several pieces of green meadows ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of a factory, there are some trees, grass, plants, poles, vehicles, buildings, roads and some other objects.",
+        " What do you see?\nSilos",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nSilos, train, and buildings.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nsilos",
+        " What are the features of this image?\nSilos, roads, and fields."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfarm",
+        " Write a detailed description.\nIn this image we can see a few buildings, trees, grass, vehicles, roads, poles, and the sky.",
+        " What is shown in this aerial view?\nfarm",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_24388.jpg",
+    "reference_captions": [
+      "Several large pieces of sea ice and a lot of small pieces of sea ice gather together .",
+      "Countless ice cubes of all sizes are closely connected into a large piece floating on the deep blue sea .",
+      "There are many ice on the dark green sea .",
+      "There are sea ice of different sizes .",
+      "There are some pieces of sea ice linked together ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see some ice.",
+        " What do you see?\nice",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows theorteur with the island of Hut Point in the foreground and the coast of Franz Josef Land in the background.",
+        " Describe the type of area shown.\narctic",
+        " What is the background?\ndark",
+        " What are the contents of this image?\nThe contents of this image are the gray ice chunks and the black ocean.",
+        " What are the features of this image?\nThe image shows a dark body of water with several large chunks of broken ice floating on its surface."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nice",
+        " Write a detailed description.\nIn this image we can see some ice.",
+        " What is shown in this aerial view?\nice",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nmelting"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_20928.jpg",
+    "reference_captions": [
+      "The railway station has some railways and buildings of different colors .",
+      "There is a fully equipped railway station in the city .",
+      "The railway station is next to the road and some buildings .",
+      "There are many buildings of different shapes beside the railway station .",
+      "There are some red buildings near the railway station ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a city with a train passing by. The city is characterized by its towering skyscrapers, busy freeway, and red brick buildings. People are walking and driving throughout the city, and the shadows of the buildings cast long",
+        " What do you see?\ntrain station",
+        " Summarize what\u2019s visible.\ntrain station",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image has a cluttered and busy appearance, with a large square or roundabout in the center, which is very busy with people and vehicles. The buildings are also very tall and have a lot of windows, which can be seen in the aerial view."
+      ],
+      "partial": [
+        " What subjects are visible?\nTrain.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nbuildings",
+        " What are the features of this image?\nAerial photography, Bird's-eye view, Car, Junction, Sky, Vehicle."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ncity",
+        " Write a detailed description.\nA bird's-eye view of a city with a train passing by. The city is characterized by its concrete streets, concrete sidewalks, and concrete buildings. The train is blue and white, and the people on the ground are walking along the sidewalk",
+        " What is shown in this aerial view?\ntrain station",
+        " Describe all visible elements.\nbuildings",
+        " What is happening in this scene?\ntrain crossing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_6613.jpg",
+    "reference_captions": [
+      "the rectangular pond close to the trapezoidal pond is next to a building with a parking lot surrounded by trees .",
+      "we can see several ponds near a building surrounded by trees .",
+      "we can see several ponds near a building surrounded by trees .",
+      "two quadrilateral ponds sit beside each other next to a house with white roof .",
+      "two quadrangular green pond are near many green trees ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the land. We can see the trees, grass, road, water and a building.",
+        " What do you see?\nA large green field with a small pond in the middle. The pond is filled with murky water and has a green plant growing in it. There is a small patch of grass and a small patch of dirt in the field. A paved road runs by",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nHouse, Tree.",
+        " Describe the type of area shown.\npark",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows two large, rectangular concrete ponds, a small road, and a few houses. The ponds are used for recreation and have been recently de-iced. The land surrounding the ponds is mostly bare and has a few trees and shrubs. The"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\npond",
+        " Write a detailed description.\nIn this image we can see an aerial view of the land. In the center of the image we can see the water body. On the right side of the image we can see the trees. On the left side of the image we can see the",
+        " What is shown in this aerial view?\npond",
+        " Describe all visible elements.\nIn this image I can see the ground, few trees in green color, few buildings, few poles and few other objects.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_1587.jpg",
+    "reference_captions": [
+      "the suspension bridge is across the stretch of arc shaped river .",
+      "here is a double tower stayed cable bridge across the river with a sandbar in the middle",
+      "the suspension bridge is across an arc river .",
+      "a huge cable stayed bridge spans the curved river .",
+      "some buildings and green trees are in two sides of a river with a bridge over it ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a bridge, there are some trees, buildings, roads, also we can see the water.",
+        " What do you see?\nA bridge over a river with boats on it. The bridge is white and in the air. Two boats are on the bridge, one light blue and one dark blue. There is a small island in the river, a small blue boat docked on the",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nWater.",
+        " Describe the type of area shown.\nriver",
+        " What is the background?\nriver",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows a top-down aerial view of a bridge in Taichung, Taiwan. It has two large spans and is a suspension bridge. There is a small island on the right side of the bridge, and a road on the left side"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbridge",
+        " Write a detailed description.\nIn this image we can see a bridge, there are some trees, plants, grass, water and houses, also we can see the sky.",
+        " What is shown in this aerial view?\nbridge",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_1860.jpg",
+    "reference_captions": [
+      "a polygonal blue green building with pyramidal roof is located among streets other square buildings and parking lots",
+      "a polygonal blue green building with pyramidal roof is located among streets other square buildings and parking lots",
+      "the snowflake like center is near some black blocks .",
+      "it is a beautiful polygonal center with esthetic blue roof .",
+      "several buildings and green trees are around a cyan center building ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of a building, trees, vehicles, road and buildings.",
+        " What do you see?\nbuilding",
+        " Summarize what\u2019s visible.\nchurch",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\naerial"
+      ],
+      "partial": [
+        " What subjects are visible?\ntrees",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuilding",
+        " What are the contents of this image?\naerial view",
+        " What are the features of this image?\naerial"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuilding",
+        " Write a detailed description.\nIn this image we can see a top view of a building, trees, vehicles, road and buildings.",
+        " What is shown in this aerial view?\nchurch",
+        " Describe all visible elements.\nbuilding",
+        " What is happening in this scene?\npraying"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_7272.jpg",
+    "reference_captions": [
+      "the huge rectangular station platform close the station with a silver ceiling is over the arc shaped rails",
+      "the huge rectangular station platform close the station with a silver ceiling is over the arc shaped rails",
+      "the huge rectangular station platform close the station with a silver ceiling is over the arc shaped rails",
+      "this smart railway station lies next to a dense residential area .",
+      "many buildings and a river are in two sides of a railway station ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of a city.",
+        " What do you see?\ntrain station",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nBuilding, House.",
+        " What are the features of this image?\nThe image shows a railway station with several tracks and buildings surrounding it. There is a river running through the center of the image."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ntrain station",
+        " Write a detailed description.\nIn this image we can see an aerial view of a city.",
+        " What is shown in this aerial view?\ntrain station",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ntrain station"
+      ]
+    }
+  },
+  {
+    "image": "UCM_988.jpg",
+    "reference_captions": [
+      "This is a part of a golf course with green turfs and some bunkers .",
+      "A part of a golf course with green turfs and some bunkers and a trail go through the turfs .",
+      "A part of a golf course with green turfs and some bunkers .",
+      "There are turfs and some bunkers and a trail go through the turfs in the golf course .",
+      "Green turfs and some bunkers and a trail go through the turfs in the golf course ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a few trees, sand, grass and a path.",
+        " What do you see?\npath",
+        " Summarize what\u2019s visible.\ngrass",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nno"
+      ],
+      "partial": [
+        " What subjects are visible?\nPalm trees, Tree.",
+        " Describe the type of area shown.\npark",
+        " What is the background?\ngrass",
+        " What are the contents of this image?\nGolf course.",
+        " What are the features of this image?\nGolf course, Tree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\npath",
+        " Write a detailed description.\nA golf course with a tree in the middle, showcasing a serene landscape. The green grass and sand create a picturesque backdrop, while the tree casts long shadows across the ground. The sand bunkers and the small green tree add a touch of whimsy to",
+        " What is shown in this aerial view?\npath",
+        " Describe all visible elements.\ngrass",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_30014.jpg",
+    "reference_captions": [
+      "There are rows of blue or red buildings on one side of the two thermal power stations .",
+      "In the thermal power plant, there are plant buildings and machinery, two cooling towers emit steam, and a chimney emits smoke .",
+      "The thermal power station is next to some buildings with white mist above .",
+      "There are many buildings next to the thermal power station .",
+      "There are some buildings and two chimneys on the thermal power station ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA factory with two smoke stacks and a building in a barren desert landscape. The plant has a large white and blue building, a white and blue nuclear silo, and a large circular structure. There is white smoke emanating from the plant, and the silo",
+        " What do you see?\npower plant",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nPower station.",
+        " Describe the type of area shown.\nindustrial",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows the top-down view of the Yucca Hills nuclear power plant, with the waste water treatment plant and the spent fuel disposal site to the right of the plant."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nplant",
+        " Write a detailed description.\nA factory with two smoke stacks and a building in a barren desert landscape. The plant has a large white and blue building, a large circular black smoke stack, and a large plume of white smoke. There is a small white square building near the stacks",
+        " What is shown in this aerial view?\nplant",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_1319.jpg",
+    "reference_captions": [
+      "A baseball diamond next to a parking lot and the residential area beside .",
+      "There is a muddy path by the baseball field .",
+      "There is a simple baseball diamond in the grass along the roads surrounded by houses and parking lot .",
+      "There is a baseball diamond between many buildings and a parking lot .",
+      "Many buildings are next to  the  baseball diamond ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a baseball field and neighborhood, showcasing a vibrant urban landscape. The field is flanked by a parking lot and a row of houses, while a white building and a long, low white building stand in the distance.",
+        " What do you see?\nA bird's-eye view of a baseball field and neighborhood, showcasing a vibrant landscape. The field is adorned with a white diamond, a large brown building, and a tall tree. The neighborhood is characterized by rows of houses, a brick retaining",
+        " Summarize what\u2019s visible.\nhouses",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image shows a neighborhood with a baseball field, a middle school, and a high school. The field is well-maintained and has a clear view of the sky. The middle school has a gym and a cafeteria, while the high school has a"
+      ],
+      "partial": [
+        " What subjects are visible?\nBaseball field, Building, House, Tree.",
+        " Describe the type of area shown.\nsuburb",
+        " What is the background?\nhouses",
+        " What are the contents of this image?\nAerial photography, Bird's-eye view, Car, House, Tree, Vehicle.",
+        " What are the features of this image?\nAerial photography, Bird's-eye view, Car, House, Tree, Vehicle."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nneighborhood",
+        " Write a detailed description.\nA bird's-eye view of a baseball field and neighborhood, showcasing a vibrant urban landscape. The field is flanked by a parking lot and a row of houses, while a white building and a long, low white building stand in the distance.",
+        " What is shown in this aerial view?\nbaseball field",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nbaseball game"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_284.jpg",
+    "reference_captions": [
+      "many white planes are parked at the airport .",
+      "some trees were planted around the airport .",
+      "some trees were planted around the airport .",
+      "many white planes are parked at the airport .",
+      "many white planes are parked at the airport ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of an airport.",
+        " What do you see?\nA bird's-eye view of an airport runway with planes parked on it. The runway is light brown and the tarmac is dark grey. There are several planes parked at the terminal, including a large white plane, a large grey plane, and",
+        " Summarize what\u2019s visible.\nairport",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nAircraft, Airplane, Vehicle.",
+        " Describe the type of area shown.\nairport",
+        " What is the background?\nairport",
+        " What are the contents of this image?\nairport",
+        " What are the features of this image?\nrunway"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nairport",
+        " Write a detailed description.\nIn this image we can see an aerial view of an airport.",
+        " What is shown in this aerial view?\nairport",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "UCM_1088.jpg",
+    "reference_captions": [
+      "Lots of boats docked at the harbor and the water is deep blue .",
+      "Lots of boats docked in lines at the harbor .",
+      "Many boats docked in lines at the harbor and the water is deep blue .",
+      "Many boats docked in lines at the harbor and only a few positions are free .",
+      "Lots of boats docked in lines at the harbor and only a few positions are free ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn aerial view of a marina with boats docked. The image is distorted, showcasing the boat's reflection on the water and the pier. The boats are lined up, some with their covers on or bumpers attached to the front of the boat. The",
+        " What do you see?\nboats",
+        " Summarize what\u2019s visible.\nboats",
+        " Describe any visible activity.\nboats",
+        " Describe the visual content of this image.\nboats"
+      ],
+      "partial": [
+        " What subjects are visible?\nboats",
+        " Describe the type of area shown.\nmarina",
+        " What is the background?\nboats",
+        " What are the contents of this image?\nboats",
+        " What are the features of this image?\nboats"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nboats",
+        " Write a detailed description.\nAn aerial view of a marina filled with boats. The water is dark blue and the boats are white. There are two long rows of eight boats, with many boats docked at the wooden docks. The boats are sitting on the water, with some boats",
+        " What is shown in this aerial view?\nboats",
+        " Describe all visible elements.\nboats",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_12493.jpg",
+    "reference_captions": [
+      "The industrial area with some neatly arranged blue workshops and red workshops is surrounded by roads .",
+      "Industrial areas have different building sizes .",
+      "Dense industrial buildings and roads in an industrial area .",
+      "There are many houses of different shapes and sizes in the industrial zone .",
+      "There are some blue buildings and red buildings on the industrial area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of a place.",
+        " What do you see?\nsatellite view",
+        " Summarize what\u2019s visible.\nunanswerable",
+        " Describe any visible activity.\nconstruction",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House.",
+        " Describe the type of area shown.\nindustrial",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nBuilding, House."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuildings",
+        " Write a detailed description.\nIn this image we can see an aerial view of a place.",
+        " What is shown in this aerial view?\nbuildings",
+        " Describe all visible elements.\nbuildings",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_4767.jpg",
+    "reference_captions": [
+      "The church with a green circular tower is surrounded by other buildings .",
+      "This is a church, Made up of blue and white roofs .",
+      "A light green church with a large, A small and two round roofs, Surrounded by buildings, Roads and cars .",
+      "The church with a blue circular roof is surrounded by some buildings .",
+      "A church with a green dome is surrounded by many brown buildings ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a city with a dome. The green dome is the centerpiece of the image, surrounded by buildings of various heights. The tallest building has a distinctive white roof and a circular window at its top. A green dome",
+        " What do you see?\ndome",
+        " Summarize what\u2019s visible.\nbuildings",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image shows an aerial view of a dome structure in a city with surrounding buildings."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nAerial photography, Bird's-eye view, Building, Dome, Dome, Roof, Sky.",
+        " What are the features of this image?\nThe image shows the dome of Santa Maria di Loreto and the buildings surrounding it, including the view from above."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuildings",
+        " Write a detailed description.\nA bird's-eye view of a city with a dome. The green dome is the centerpiece of the image, with the building featuring a window on its roof above the dome. The roof of the building to the left of the green dome is",
+        " What is shown in this aerial view?\ndome",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_31411.jpg",
+    "reference_captions": [
+      "A plane parked next to a boarding bridge of the rectangular terminal and the lawn in the other side of the terminal .",
+      "A white plane parked at the departure gate near the building .",
+      "An airplane parked beside a building inside the airport .",
+      "A plane is parked next to buildings and grass .",
+      "One plane is on the ground next to the building ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large white airplane sits proudly on the tarmac, its wing extending over the runway. The plane's nose points towards the sky, while its tail gracefully curves upwards. The white line painted on the tarmac extends alongside the plane, guiding it smoothly along",
+        " What do you see?\nairport",
+        " Summarize what\u2019s visible.\nairport",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nno"
+      ],
+      "partial": [
+        " What subjects are visible?\nAircraft, Airplane, Vehicle.",
+        " Describe the type of area shown.\nairport",
+        " What is the background?\nbuilding",
+        " What are the contents of this image?\nairport",
+        " What are the features of this image?\nBuilding, Vehicle."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nairport",
+        " Write a detailed description.\nA large white airplane sits proudly on the tarmac, its wing extending over the runway. The plane's nose points towards the sky, while its tail gracefully curves upwards. The white line painted on the tarmac extends alongside the plane, guiding it smoothly along",
+        " What is shown in this aerial view?\nairport",
+        " Describe all visible elements.\nairport",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_4108.jpg",
+    "reference_captions": [
+      "Some disconnected chaparrals grow in the desert .",
+      "There are clusters of lush trees in the desert .",
+      "Chaparral is densely distributed on the sand .",
+      "The chaparral is consist of some bushes on the desert .",
+      "The chaparral is not evenly distributed ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor daytime angled down medium close-up view of an arid landscape that consists of small green plants rooted into a ground floor made up of beige colored sand. The plants are rooted into the beige ground floor, and have grown close together.",
+        " What do you see?\ndesert",
+        " Summarize what\u2019s visible.\nplants",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nplants",
+        " Describe the type of area shown.\ndesert",
+        " What is the background?\ndesert",
+        " What are the contents of this image?\nplants",
+        " What are the features of this image?\nThe image shows the ground covered in small dark green plants with dry patches of dirt visible between the plants."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ndesert",
+        " Write a detailed description.\nAn outdoor daytime angled down medium close-up view of an arid landscape that consists of small green plants rooted into a ground floor made up of beige colored sand. The plants are rooted into the beige ground floor, and have grown close together.",
+        " What is shown in this aerial view?\nbushes",
+        " Describe all visible elements.\nplants",
+        " What is happening in this scene?\ndrought"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_24408.jpg",
+    "reference_captions": [
+      "A large piece of sea ice and a lot of small pieces of sea ice float in the dark green sea .",
+      "A large piece of ice and many small pieces of ice floating around it float on the deep blue sea .",
+      "There is a big ice and many small ice on the light green sea .",
+      "There are different shapes of sea ice .",
+      "There are some small pieces of sea ice and a larger one ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a map.",
+        " What do you see?\nsnow",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image is a black-and-white photo of a map, with a white shape in the center and several white speckles on the left side."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the heads of the three main craters and two smaller craters next to them.",
+        " Describe the type of area shown.\nisland",
+        " What is the background?\ndark",
+        " What are the contents of this image?\nThe contents of this image are the 2nd, 3rd, 4th, and 5th generations of the iPod.",
+        " What are the features of this image?\nThe image shows the locations of some icebergs in the southern part of the Southern Ocean, as well as a large, elongated blotch of high-altitude cloud cover in the upper half of the image."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nisland",
+        " Write a detailed description.\nIn this image we can see a green color surface.",
+        " What is shown in this aerial view?\nisland",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_7950.jpg",
+    "reference_captions": [
+      "the long river flows through the vast land .",
+      "on one side of the river are rows of blue roofed houses .",
+      "on one side of the river are rows of blue roofed houses .",
+      "the long river flows through the vast land .",
+      "the long river flows through the vast land ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of a place.",
+        " What do you see?\nA river flows through a land dotted with buildings, some blue, some green and white. A construction site sits near the river, its orange equipment gleaming. The hills behind the buildings are brown, and the hillsides are green and brown. A winding",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the 2010 Taedong River Festival, the 2012 P'y\u014fngyang Winter Olympics, and the construction of the P'y\u014fngyang\u2013Taedong Bridge.",
+        " Describe the type of area shown.\nindustrial",
+        " What is the background?\nriver",
+        " What are the contents of this image?\nThe image shows the Rungna-3 nuclear test site, which includes the Rungna-3 Nuclear Plant, the Rungna-2 Test Facility, and the abandoned Rungna-1 Test Facility.",
+        " What are the features of this image?\nThe image shows the 2010 Expo Science Park in Chongqing, China, which includes the Chongqing Expo Science Park, the Chongqing Yangtze River, and other surrounding areas."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuildings",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nbuildings",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_14603.jpg",
+    "reference_captions": [
+      "The lake lies in a mountainous area and the water is dark blue .",
+      "There are two lakes in the picture .",
+      "A long, Blue lake surrounded by yellow-brown mountains .",
+      "The ground is uneven around the lake .",
+      "The blue lake is in a brown mountain with many ridges ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA barren desert landscape with a towering mountain and a vibrant blue lake. The mountain is adorned with a small white snow cap and a towering peak. The lake's surface reflects the azure sky, creating a serene contrast to the barren terrain. The landscape",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows a satellite view of a lake surrounded by mountains."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows Sarez Lake, the \"valley of the dead\", and the city of Shambhala.",
+        " Describe the type of area shown.\nlake",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nThis image consists of a satellite image. In which we can see the mountains and the water.",
+        " What are the features of this image?\nThe image shows Sarez Lake in the center of the photo, surrounded by mountains in the north and south."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nlake",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_19467.jpg",
+    "reference_captions": [
+      "The parking lot has some parked cars and trees .",
+      "The parking lot has some yellow signs and two rows of coconut trees .",
+      "There are some cars on the parking lot .",
+      "Many cars are in the parking lot .",
+      "There are some cars on the parking lot ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA parking lot with a white car parked in the center, and several other cars parked on both sides. The trees are green and the leaves are plentiful. The ground is made of asphalt and is light grey. The building is dark brown and has a",
+        " What do you see?\nparking lot",
+        " Summarize what\u2019s visible.\nparking lot",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nparking lot"
+      ],
+      "partial": [
+        " What subjects are visible?\ncars",
+        " Describe the type of area shown.\nparking lot",
+        " What is the background?\nparking lot",
+        " What are the contents of this image?\nparking lot",
+        " What are the features of this image?\nparking lot"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nparking lot",
+        " Write a detailed description.\nA parking lot with a white car parked in the center, surrounded by black cars. The lot is made of grey cement and has white lines painted on the pavement. There are four parking spaces in a row, and a total of 15 spaces",
+        " What is shown in this aerial view?\nparking lot",
+        " Describe all visible elements.\nparking lot",
+        " What is happening in this scene?\nparking"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_8263.jpg",
+    "reference_captions": [
+      "The desert has yellow sand and some small hills .",
+      "There are several strips of rock in this desert .",
+      "This is a sand dune with a yellow wavy texture with a gray bare top .",
+      "There are white desert with lines of green plants .",
+      "A desert covered by bare land with some fissures ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a desert.",
+        " What do you see?\nsand",
+        " Summarize what\u2019s visible.\nsand",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image is a satellite image of a region, and it has a clear resolution and color fidelity. The landscape is barren and sandy, with a prominent canyon and a barren hill. The ground is gray and brown, with dark shadows cast upon the sand"
+      ],
+      "partial": [
+        " What subjects are visible?\nNone.",
+        " Describe the type of area shown.\ndesert",
+        " What is the background?\nsand",
+        " What are the contents of this image?\nThe contents of this image are a river system and a lake.",
+        " What are the features of this image?\nThe image shows two large canyons and a series of small hills."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ndesert",
+        " Write a detailed description.\nIn this image we can see a desert.",
+        " What is shown in this aerial view?\ndesert",
+        " Describe all visible elements.\nsand",
+        " What is happening in this scene?\nerosion"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_16703.jpg",
+    "reference_captions": [
+      "The sparse mobile home park has some mobile homes on the grass and two lakes are also in the mobile home park .",
+      "Here is a road with mobile homes on both sides .",
+      "The mobile home park is on the grass next to the road .",
+      "Many buildings of different shapes and sizes are in mobile home parks .",
+      "There are some buildings on green lawns on the mobile home park ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn aerial view of a neighborhood with mobile homes. A trailer is parked on the grass between two roads, with a car parked nearby. A tree is next to a building, and a white car is on the road. A long brown trailer is also",
+        " What do you see?\ntrailer",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nLand vehicle, Vehicle.",
+        " Describe the type of area shown.\ntrailer park",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nTree. The image shows a small community of trees between two roads."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ntrailer",
+        " Write a detailed description.\nA bird's-eye view of a neighborhood with mobile homes, showcasing a long gray road between two lawns of green grass. A long trailer sits on the road, while a long brown trailer and a long white trailer are parked in the yard.",
+        " What is shown in this aerial view?\ntrailer park",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nmoving"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_16002.jpg",
+    "reference_captions": [
+      "The medium residential area has some houses and bare trees and some roads go through the medium residential area .",
+      "There is a road next to a medium-sized house .",
+      "The medium residential is on the grass next to some trees and road .",
+      "There are many buildings in medium residential area .",
+      "There are some green trees and buildings on the medium residential area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA suburban neighborhood from above, showcasing a typical view of a neighborhood in the daytime. The houses are lined up in a row, with some displaying visible cracks and others featuring unique features such as a tree in a yard and a small gray house on the",
+        " What do you see?\nneighborhood",
+        " Summarize what\u2019s visible.\nhouses",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nAerial view of a neighborhood."
+      ],
+      "partial": [
+        " What subjects are visible?\nHouse.",
+        " Describe the type of area shown.\nsuburb",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nhouses",
+        " What are the features of this image?\nTree. The image shows a neighborhood with trees in the grass and on the sides of the residential streets."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhouses",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nhouses",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ndriving"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_7577.jpg",
+    "reference_captions": [
+      "A dense residential area has lots of neatly arranged houses with different colors of roofs .",
+      "There are many roads around the house .",
+      "Many roads and neatly arranged houses in densely populated areas .",
+      "The dense residential is next to the road .",
+      "There are many buildings of different colors on dense residential area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a city with numerous buildings. The roof of a brown house is light brown, while the roof of another house is black. A group of buildings, including a large house with a green roof and a small house",
+        " What do you see?\nhouses",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nHouse.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nroof",
+        " What are the features of this image?\nHouse."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhouses",
+        " Write a detailed description.\nA bird's-eye view of a city with numerous buildings. The roof of a light-colored house is light blue, while the roof of another house is dark blue. A wall on the side of a building is visible, as is a",
+        " What is shown in this aerial view?\nhouses",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_17398.jpg",
+    "reference_captions": [
+      "The mountain has a rugged surface and its rocks are gray .",
+      "There is a yellow bare field on this mountain .",
+      "The mountain is consist of the bare land .",
+      "The mountain is uneven and rough .",
+      "There are some ridges on the brown mountain ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a satellite view of a place.",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nThe image shows mountains and a road."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the cities of Shaikhzayed, Tabriz, and Van.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountain",
+        " What are the contents of this image?\nThe contents of this image are the mountains of Afghanistan.",
+        " What are the features of this image?\nThe image shows a mountainous region with several peaks and valleys."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountains",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_3381.jpg",
+    "reference_captions": [
+      "Two bridges built on a dark blue river and the vacant lot on both sides of the river .",
+      "The bridge is bi-directional, And the water under the bridge appears dark blue .",
+      "A bridge connects the land on both sides of the river  There are many cars on the bridge .",
+      "A bridge is over the river between the bare land .",
+      "There are many cars on the bridges ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bridge over a river is shown from an aerial view. The bridge is made of metal and has a concrete slab in the center. Cars drive across the bridge, including a small car and a large truck. The river flows under the bridge, and",
+        " What do you see?\nbridge",
+        " Summarize what\u2019s visible.\nbridge",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ncars"
+      ],
+      "partial": [
+        " What subjects are visible?\nWater.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nriver",
+        " What are the contents of this image?\nbridge",
+        " What are the features of this image?\nThe image shows a bridge spanning the Everglades with one lane on each side, guardrails on either side of the bridge, and a wall on one side of the bridge."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbridge",
+        " Write a detailed description.\nA bridge over a river is shown from an aerial view. The bridge is made of metal and has a concrete slab in the middle. Cars drive across the bridge, including a small car and a large truck. The river is made of gravel and water",
+        " What is shown in this aerial view?\nbridge",
+        " Describe all visible elements.\nroad bridge water",
+        " What is happening in this scene?\ncar wreck"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_18774.jpg",
+    "reference_captions": [
+      "The orange palace with a clearing is surrounded by a grove of trees .",
+      "The roof of this palace is black and there is a white vacant lot in front of the palace .",
+      "The palace is on the bare land surrounded by trees and buildings .",
+      "There are many trees of different sizes beside the palace .",
+      "There are some green trees beside the brown palace ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large building with a long, curved roof and a courtyard. The roof is red, and the building has a brown wall. There is a tree in front of the building, and a white car parked on the street. The tree is green,",
+        " What do you see?\nA large building with a long, curved roof and a courtyard. The roof is red and the building has a brown roof. There is a white car parked in the courtyard and another car parked outside a white building. The building has a wall on the",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Tree.",
+        " Describe the type of area shown.\ncourtyard",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows a large building with a long, curved roof, trees, and a small park. The building has a red roof, white walls, and a brown wall. There is also a long road, a wall, a cluster of stones,"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuildings",
+        " Write a detailed description.\nA large building with a long, curved roof and a courtyard. The roof is red and the building has a brown roof. There is a wall on the side of the building, a wall around the courtyard, and a fence around the courtyard. The",
+        " What is shown in this aerial view?\nschool",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9943.jpg",
+    "reference_captions": [
+      "the viaduct is connected to the broad road by a eight shaped ramp .",
+      "an eight shaped ramp can be seen in the viaduct .",
+      "some trim houses are next to a diamond shaped viaduct combined with four ring shaped ramps looking like petals",
+      "a row of trees are planted in the middle of the viaduct overpassing the bustling wide highway road where a parking lot lies nearby .",
+      "some buildings and many green trees are near a viaduct ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of the road. Here we can see vehicles on the road. Here we can see trees, plants, grass, and buildings.",
+        " What do you see?\nA top-down view of a highway system with cars on it. It is an aerial view, and the ground is gray. The roads are light gray and made of concrete. Cars are on it, and there are buildings on each side of it",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nJunction.",
+        " Describe the type of area shown.\nhighway",
+        " What is the background?\nbuildings",
+        " What are the contents of this image?\nJunction.",
+        " What are the features of this image?\nJunction."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nhighway",
+        " Write a detailed description.\nIn this image we can see a top view of a road. There are many vehicles on the road. Also there are many trees and plants. Also there are buildings.",
+        " What is shown in this aerial view?\nhighway",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ntraffic"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_7933.jpg",
+    "reference_captions": [
+      "the twisty river is across the green land.",
+      "the twisty river is across the green land.",
+      "the twisty river is across the green land.",
+      "this black river is curving across this green plain with bushes on its bank .",
+      "many green plants are in two sides of a curved black river ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a top view of the land. In the center of the image we can see a river. On the sides of the river, we can see the trees.",
+        " What do you see?\nA winding river snakes through a lush green field, its banks adorned with towering trees. The river winds through a patch of dirt, passing a small rock and a winding path. The landscape is characterized by tall trees, a hill, and a series of",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nriver",
+        " What is the background?\ngrass",
+        " What are the contents of this image?\nMap.",
+        " What are the features of this image?\nThe image shows a winding river surrounded by forest and grass."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nriver",
+        " Write a detailed description.\nIn this image we can see a river and trees.",
+        " What is shown in this aerial view?\nriver",
+        " Describe all visible elements.\nriver, trees",
+        " What is happening in this scene?\nflooding"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25071.jpg",
+    "reference_captions": [
+      "Several ships of different sizes are docked at the dock and another ship is sailing in the yellow water .",
+      "Several red and blue ships docked at the dock .",
+      "There are many ships in the yellow water on the shore .",
+      "Several ships of different sizes and shapes are at sea .",
+      "There are several ships on a brown river ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn aerial view of a body of water with six large ships docked on the left side and one on the right. The water is dark brown and the ships are all dark brown. The one on the right is moving towards the left and the one on",
+        " What do you see?\nboats",
+        " Summarize what\u2019s visible.\nboats",
+        " Describe any visible activity.\nbarge",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nA portion of the Port of Houston Ship Channel, including the Arthur Ravenel Jr. Bridge, the John A. Belt and Main Street Bridge, the Houston Ship Channel, the USS Tortuga Battleship Memorial, the USS Ranger Battleship Memorial, the",
+        " Describe the type of area shown.\nlake",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image features four large ships, a small boat, a long pipe leading out of the water, and a small structure extending from the water's edge with two curved pipes coming out of the water."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nboats",
+        " Write a detailed description.\nA large body of water with several boats docked on its surface. The water is brown and calm, with white caps on some waves. There are five large boats, a large ship at dock, a small boat in the water, and a red boat",
+        " What is shown in this aerial view?\nboats",
+        " Describe all visible elements.\nwater",
+        " What is happening in this scene?\nboat"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_29272.jpg",
+    "reference_captions": [
+      "There is a straight path between the terraces .",
+      "A large layer of brown and green mixed terraces with several winding narrow paths .",
+      "The bare and green terrace is next to some trees .",
+      "The green plants are on the terrace .",
+      "There are some green terraces of different sizes ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large body of water flows through a landscape dotted with fields and trees. The fields are visible in the image, with some large fields being divided by dirt roads. A wall on a building is also visible. The vegetation on the ground is green,",
+        " What do you see?\nfarm",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nfarming",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows vineyards, a road, and a retaining wall.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nThe contents of this image are not included in the text, therefore I cannot answer this question.",
+        " What are the features of this image?\nThe image shows three large vineyards, a road bordering the vineyards, and several small vineyards in the lower left corner."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfarm",
+        " Write a detailed description.\nA bird's-eye view of a landscape from above, showcasing a large body of water with ripples and waves. The land surrounding the water is green and brown, with dirt visible in the foreground. A road runs along the side of the water",
+        " What is shown in this aerial view?\nfarm",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_26494.jpg",
+    "reference_captions": [
+      "There are circular swimming pools beside this house .",
+      "There are several houses of various sizes and many green trees in a sparse residential area .",
+      "The sparse residential is on the grass next to some trees and a road .",
+      "There are many trees around the sparse residential .",
+      "A sparse residential area with some withered trees and two green buildings ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large, brown house sits on a paved driveway with a pool in the yard. The house has a large circular driveway and a small circular driveway. The pool is in the middle of the yard and is surrounded by a green fence. There is a",
+        " What do you see?\nyard",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ntrees"
+      ],
+      "partial": [
+        " What subjects are visible?\nHouse, Tree.",
+        " Describe the type of area shown.\nrural",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrees",
+        " What are the features of this image?\nTree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nyard",
+        " Write a detailed description.\nA large, brown house sits on a paved driveway with a pool in the yard. The house has a large circular driveway and a small circular driveway. The pool is in the middle of the yard and is surrounded by a green fence. There is a",
+        " What is shown in this aerial view?\nyard",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_4821.jpg",
+    "reference_captions": [
+      "The church with a green circular pointed tower and the rest of the church has an orange cross-shaped roof .",
+      "This is a church with an umbrella roof in the middle .",
+      "A tan rectangular roof with a church with light blue spheres on the main house, Surrounding buildings, Roads .",
+      "There is a red church with a blue circular roof .",
+      "A church with a blue dome and brown roofs is beside some brown buildings ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large building with a blue dome on top, standing in a city. The roof is red and brown, with a row of windows on one side and a series of green domes on the other side. There is a green tree next to the building",
+        " What do you see?\ndome",
+        " Summarize what\u2019s visible.\nchurch",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nAerial view of dome buildings, from above."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Tree.",
+        " Describe the type of area shown.\ncourtyard",
+        " What is the background?\nbuilding",
+        " What are the contents of this image?\nchurch",
+        " What are the features of this image?\nBuilding, Tree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuilding",
+        " Write a detailed description.\nA large building with a blue dome on top, standing in a city. The roof is red and brown, with a row of windows on one side and a series of green domes on the other side. There is a green tree next to the building",
+        " What is shown in this aerial view?\ndome",
+        " Describe all visible elements.\nbuildings",
+        " What is happening in this scene?\nchurch"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_6595.jpg",
+    "reference_captions": [
+      "the pond is trapezoidal in one side of which there are some trees and in other sides of which there are many tracts of farmland .",
+      "a pentagonal pond is surrounded by striped farmland and a forest .",
+      "a pentagonal pond is surrounded by striped farmland and a forest .",
+      "water in the pond is slightly waving which is surrounded by woods and blocks of farmland",
+      "an almost quadrangular pond is surrounded by some green trees and many yellow bare lands."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of a water body.",
+        " What do you see?\nwater",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nTrain.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nWater.",
+        " What are the features of this image?\nThe image shows a large, multi-walled structure with a central pool of water. There is a short wall on one side of the structure, and trees are located along the perimeter of the structure. The water in the pool is surrounded by fields of"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nwater",
+        " Write a detailed description.\nIn this image we can see an aerial view of a water body.",
+        " What is shown in this aerial view?\nwater",
+        " Describe all visible elements.\nIn this image I can see the water. To the side of the water I can see the vehicles. To the side of the water I can see the trees.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_9010.jpg",
+    "reference_captions": [
+      "The forest has a lot of randomly arranged green trees .",
+      "This is a dense forest .",
+      "Many dense green trees are in a forest .",
+      "The forest is full of green trees .",
+      "A dense forest with many green trees ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see trees.",
+        " What do you see?\ntrees",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\ntrees"
+      ],
+      "partial": [
+        " What subjects are visible?\nbirds",
+        " Describe the type of area shown.\nforest",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrees",
+        " What are the features of this image?\nThe image features a large number of small, light-green leaves spread out over the entire image."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ntrees",
+        " Write a detailed description.\nA high-angle view of a group of trees in the distance extending from the bottom of the image and ending at the top of the image seen from the vantage point of a person on the ground. The trees are covering the entire image. The leaves",
+        " What is shown in this aerial view?\ntrees",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25075.jpg",
+    "reference_captions": [
+      "Some ships of different sizes and colors are docked at the oil terminal and the water is dark green .",
+      "A red and a green tanker docked at the dock, With tank-like storage on the dock .",
+      "There are two ships in the green water on the shore .",
+      "Several ships of different sizes and shapes are at sea .",
+      "There are two ships at the harbor ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA group of boats are docked at a pier in a large body of water. The water is dark green and the sky is clear. The large white round tanks and the small red boat are on the water. The large long green boat and the large",
+        " What do you see?\nboats",
+        " Summarize what\u2019s visible.\nboats",
+        " Describe any visible activity.\nboats",
+        " Describe the visual content of this image.\nno"
+      ],
+      "partial": [
+        " What subjects are visible?\nShip.",
+        " Describe the type of area shown.\nharbor",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nboats",
+        " What are the features of this image?\nWater."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nboats",
+        " Write a detailed description.\nA group of boats are docked at a pier in a large body of water. The red boat is on the water, while a large long green boat, a large long blue boat, a small boat, and a large long gray boat are also in",
+        " What is shown in this aerial view?\nboats",
+        " Describe all visible elements.\nwater",
+        " What is happening in this scene?\nboat"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_10378.jpg",
+    "reference_captions": [
+      "The golf course has some putting greens, Barrier trees and two sandpits .",
+      "There are five bunkers in this area, Two winding paths and a small river .",
+      "There are a few bunkers and a few paths on the large green lawn on the golf course and many trees .",
+      "Lots of trees are beside the golf course .",
+      "There are two bunkers and some trees on the golf course ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA golf course with two sand bunkers and a green putting green. The course is lined with green trees and a single dirt road. A white golf cart drives along the road, and a person in a red shirt walks on the grass. The green in",
+        " What do you see?\ngolf course",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\ngolf",
+        " Describe the visual content of this image.\ntrees"
+      ],
+      "partial": [
+        " What subjects are visible?\nGolf.",
+        " Describe the type of area shown.\ngolf course",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ngolf course",
+        " What are the features of this image?\nGolf course, Tree."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ngolf course",
+        " Write a detailed description.\nA golf course with two sand bunkers and a green putting green. The course is lined with green trees and a single dirt road. A white golf cart drives along the road, and a golfer in a red shirt stands at the hole. Two sand bunkers",
+        " What is shown in this aerial view?\ngolf course",
+        " Describe all visible elements.\ntrees, grass, road, 2 sand bunkers, cars",
+        " What is happening in this scene?\ngolf"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25823.jpg",
+    "reference_captions": [
+      "The snowberg is covered with glaciers .",
+      "A snow-covered mountain covered in large areas .",
+      "The snow berg is consist of bare land and white snow .",
+      "The snowberg is covered with snow .",
+      "There are much snow and some bare land on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA vast mountain range stretches across the sky, its snow-laden peaks piercing through the clouds. The landscape below is a canvas of brown mountains, snow-covered peaks, and towering trees. The river flows gracefully alongside the mountains, its reflection dancing on",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the Distaghil Sar (left) and the Pir Panjal Range (right).",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows the mountains of the Andes, with the volcano Yate in the bottom left."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountains",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nsnow"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_6881.jpg",
+    "reference_captions": [
+      "A commercial area has three buildings and one of buildings has a parking lot on the roof .",
+      "The buildings are well spaced .",
+      "In a business district there are several tall buildings of different shapes and several roads with many cars  There are many cars in the open space beside the road .",
+      "The commercial area is near a parking lot .",
+      "Many cars parked on the top of a building on a commercial area ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large building with a parking lot in front of it, showcasing a top-down view of the city below. The building has a glass window on the side and a rooftop pool for relaxation. Cars are parked in the designated spaces, and a few",
+        " What do you see?\nparking lot",
+        " Summarize what\u2019s visible.\nparking lot",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\naerial"
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Skyscraper.",
+        " Describe the type of area shown.\nurban",
+        " What is the background?\nparking lot",
+        " What are the contents of this image?\nparking lot",
+        " What are the features of this image?\nAerial photography, Building, House, Skyscraper."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbuildings",
+        " Write a detailed description.\nA large building with a parking lot in front of it, showcasing a top-down view of the city. The building features windows on the side, a shadow on the ground, and a glass window on the top. Cars are parked in the designated",
+        " What is shown in this aerial view?\nparking lot",
+        " Describe all visible elements.\nbuildings",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_1580.jpg",
+    "reference_captions": [
+      "there are two bridges over the river .",
+      "on both sides of the river are a large number of tall buildings .",
+      "two bridges link two sides of the river .",
+      "two bridges link two sides of the river .",
+      "there are two bridges over the river ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a bridge, ships, vehicles, buildings, trees, roads and water.",
+        " What do you see?\nA bridge over a river with a large body of water below. The bridge is made of metal and has concrete supports. There are cars and trucks driving on the bridge, and a few boats are docked on the water. The bridge has a dividing lane",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nIn this image I can see few vehicles on the road, background I can see few buildings in white color, water in blue color and the sky is in white color."
+      ],
+      "partial": [
+        " What subjects are visible?\nVehicle.",
+        " Describe the type of area shown.\nhighway",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nBridge.",
+        " What are the features of this image?\nWater."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbridge",
+        " Write a detailed description.\nIn this image we can see a bridge, ships, vehicles, trees, buildings, roads and water.",
+        " What is shown in this aerial view?\nbridge",
+        " Describe all visible elements.\nIn this image we can see a bridge, ships, vehicles, buildings, trees, roads and water.",
+        " What is happening in this scene?\nconstruction"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_8994.jpg",
+    "reference_captions": [
+      "The forest has a lot of evenly distributed sage green trees and a road goes through the forest .",
+      "There are three paths in this forest .",
+      "A narrow and curved road passes through the dense forest .",
+      "There is a road goes through the forest .",
+      "Forest inside the tree color variegated green and brown ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA narrow dirt road winds through a dense forest, its surface illuminated by the afternoon sun. The trees tower above, their branches reaching towards the sky, their leaves rustling in the breeze. The forest is vast and imposing, its emerald hue contrasting sharply with",
+        " What do you see?\nforest",
+        " Summarize what\u2019s visible.\ntrees",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ntrees"
+      ],
+      "partial": [
+        " What subjects are visible?\nTree.",
+        " Describe the type of area shown.\nforest",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\ntrees",
+        " What are the features of this image?\nTree. The image shows a forest with many trees."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nforest",
+        " Write a detailed description.\nA narrow dirt road winds through a dense forest, its surface illuminated by the afternoon sun. The trees tower above, their branches reaching towards the sky, their leaves rustling in the breeze. The path between the trees is narrow and winding, at times disappearing",
+        " What is shown in this aerial view?\nforest",
+        " Describe all visible elements.\ntrees",
+        " What is happening in this scene?\nrain"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_15283.jpg",
+    "reference_captions": [
+      "The grass on the left side of the meadow is dense and the grass on the right side of the meadow is sparse .",
+      "The entire image is dominated by grass .",
+      "The meadow is full of green grass .",
+      "The meadow is dense but uneven .",
+      "A dense meadow with many green grass ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nAn outdoor daytime angled down medium close-up view of a dark green colored patch of turf that is severely weathered down. The turf patch is placed towards the top right corner, and has a rough and rigid surface. Towards the top left corner is a",
+        " What do you see?\ngrass",
+        " Summarize what\u2019s visible.\ngrass",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\ngreen"
+      ],
+      "partial": [
+        " What subjects are visible?\n0",
+        " Describe the type of area shown.\nlawn",
+        " What is the background?\ngrass",
+        " What are the contents of this image?\ngrass",
+        " What are the features of this image?\n0"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\ngrass",
+        " Write a detailed description.\nA top-down, close-up view of a patch of dark green grass with light brown sand visible in the top right corner. The sand has small pebbles and small rocks in it. The sun is shining down, causing the dark green grass to",
+        " What is shown in this aerial view?\ngrass",
+        " Describe all visible elements.\ngreen",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9521.jpg",
+    "reference_captions": [
+      "there are some white storage tanks near two lines of houses with trees .",
+      "there are some white storage tanks near two lines of houses with trees .",
+      "there are some white storage tanks near two lines of houses with trees .",
+      "a dozen of storage tanks are surrounded by paths and two rows of houses .",
+      "twelve storage tanks in four lines are near some green trees and buildings ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the land. We can see the tanks, grass, trees and also the buildings.",
+        " What do you see?\nA large white tank farm on a field, with nine white tanks and various other structures. The farm is surrounded by green grass and trees, and the shadows of the tanks cast long and eerie patterns on the ground. A small white storage tank, a",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows aircraft, people, and the station's tanks.",
+        " Describe the type of area shown.\nindustrial",
+        " What is the background?\ntrees",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows eight white tanks, three large ones in the middle and four smaller ones at the edges, surrounded by grass and trees. There are also three small buildings on the left side of the image, a road, and a cluster of trees in"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nsilos",
+        " Write a detailed description.\nIn this image we can see an aerial view of the land. We can see the tanks, grass, trees and also the road.",
+        " What is shown in this aerial view?\nstorage tanks",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_22968.jpg",
+    "reference_captions": [
+      "The roundabout with some exits and entrances is between the residential area and a road .",
+      "There are many bifurcation roads with many moving and waiting vehicles, And many neatly arranged tall buildings and some trees around the roundabout .",
+      "The roundabout is next to buildings and trees .",
+      "There are many buildings beside the roundabout .",
+      "There are many buildings and cars around the roundabout ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA roundabout in a city with a green grass center. The roundabout is surrounded by buildings, including a tall building on the corner, a short building at the end of the road, and a small building in the middle of the roundabout. Cars are parked",
+        " What do you see?\nA roundabout in the heart of a city, showcasing a vibrant array of activities. Cars whiz by on the street, while a white statue stands proudly in the grass. A building adorned with numerous windows and a circular driveway sits prominently. A bridge arches",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image is a bird's-eye view of a city with a circular green park in the middle, surrounded by buildings. The buildings are a mix of styles, with some being old and some being modern. There is traffic on the streets,"
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Tree.",
+        " Describe the type of area shown.\ncity",
+        " What is the background?\nhighway",
+        " What are the contents of this image?\nAerial photography, Bird's-eye view, Car, Junction, Sky, Tree, Vehicle.",
+        " What are the features of this image?\nThe image shows a roundabout, which is a junction of several streets, surrounded by buildings, including houses and commercial buildings. There is also a park in the middle of the roundabout."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nroad",
+        " Write a detailed description.\nA roundabout in a city with a green grass center. The roundabout includes a white stone pillar in a square, a white building with a brown roof, a small building at the end of the road, and a large building with a grey roof. Cars",
+        " What is shown in this aerial view?\ncity",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\ntraffic"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_5521.jpg",
+    "reference_captions": [
+      "Several dark green circular farmlands are surrounded by some rectangular farmlands .",
+      "There are four round fields .",
+      "Many neatly arranged circular farmland mixed with green and tan .",
+      "Some green circle farmland are in the bare land .",
+      "There are many circular farmlands of the same size arranged neatly ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large field of crops, predominantly corn, is visible from above. The land is brown and barren, with green fields interspersed with tan areas. A circular crop circle and a star-shaped crop circle are prominent features. The crops are green, with",
+        " What do you see?\nfields",
+        " Summarize what\u2019s visible.\nfields",
+        " Describe any visible activity.\nfarming",
+        " Describe the visual content of this image.\nfarmland"
+      ],
+      "partial": [
+        " What subjects are visible?\nFields.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\nfields",
+        " What are the contents of this image?\nfields",
+        " What are the features of this image?\nWater bodies."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfields",
+        " Write a detailed description.\nA large field of crops, predominantly green, is visible from above. The land is brown and barren, with a clear circular crop area in the center. Several circular fields are visible, with the largest and most prominent in the center of the image.",
+        " What is shown in this aerial view?\nfields",
+        " Describe all visible elements.\nfields",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_11069.jpg",
+    "reference_captions": [
+      "The ground track field is surrounded by a residential area and a parking lot is next to the ground track field .",
+      "All the fields are green except the track .",
+      "Track and field are next to residential areas and parking lots .",
+      "There are many buildings near the ground track field .",
+      "There are many buildings around the ground track field with a red track ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA bird's-eye view of a city with a baseball field. The field is green and brown, with a long white line running parallel to the street. There are many buildings on the side of the field, including a white house with a",
+        " What do you see?\nA bird's-eye view of a city with a baseball field. The field is green and brown, with a long red brick sidewalk running along one side. There are rows of houses on both sides of the street, and a long white building",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nThe image shows an aerial view of a school field in the midst of a neighborhood."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, House, Tree.",
+        " Describe the type of area shown.\nsuburban",
+        " What is the background?\nfield",
+        " What are the contents of this image?\nhouses",
+        " What are the features of this image?\nThe image shows a baseball field with two- and three-story houses, streets, and a running track."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nbaseball field",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nbaseball field",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nbaseball game"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_3535.jpg",
+    "reference_captions": [
+      "there is a bare road in the middle of the field .",
+      "there is some bare land around the farm .",
+      "the squares in the farmland are neat .",
+      "the squares in the farmland are neat .",
+      "there is a bare road in the middle of the field ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the fields.",
+        " What do you see?\nfields",
+        " Summarize what\u2019s visible.\nfields",
+        " Describe any visible activity.\nfarming",
+        " Describe the visual content of this image.\nfields"
+      ],
+      "partial": [
+        " What subjects are visible?\nfields",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\nfield",
+        " What are the contents of this image?\nfields",
+        " What are the features of this image?\nfields"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfields",
+        " Write a detailed description.\nIn this image we can see an aerial view of the fields.",
+        " What is shown in this aerial view?\nfarm",
+        " Describe all visible elements.\nfields",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_30663.jpg",
+    "reference_captions": [
+      "This wetland is light green overall with some green plants in the middle .",
+      "There are a few brown bare lands in the river in a wetland with sparse green plants on the bare lands .",
+      "The wetland consists of dry and green plants and water .",
+      "There are many green plants in the wetland .",
+      "There are some green areas and water areas on the wetland ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see a water pond on the ground.",
+        " What do you see?\nA large puddle of water sits in the middle of a field, reflecting the green leaves of a tree. The water is brown and reflects the green leaves, while the leaves themselves are green. A large rock sits next to the puddle, and a patch",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows two ponds, small shrubs, bare ground, and tire tracks in the soil.",
+        " Describe the type of area shown.\nswamp",
+        " What is the background?\nDrought-hit farmland.",
+        " What are the contents of this image?\nSorry, as a base VLM I am not trained to answer this question.",
+        " What are the features of this image?\nThe image shows a large circular pond surrounded by a field of parched grass, with patches of green vegetation in the center of the pond and around its margins."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nwater",
+        " Write a detailed description.\nIn this image we can see a water pond on the ground.",
+        " What is shown in this aerial view?\nlake",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nflooding"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_21572.jpg",
+    "reference_captions": [
+      "Some rectangular farmlands of different colors are arranged in neat rows .",
+      "Many neatly arranged dark green, light green and tan mixed rectangular farmlands of different sizes .",
+      "There are some deep green and bare rectangular farmland .",
+      "There are many rectangular farmlands of different sizes .",
+      "There are some green rectangular farmlands and yellow ones ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nIn this image we can see an aerial view of the fields.",
+        " What do you see?\ncrop fields",
+        " Summarize what\u2019s visible.\nfields",
+        " Describe any visible activity.\nfarming",
+        " Describe the visual content of this image.\nThe image shows crop fields of different shapes, sizes, and colors, some of which are clearly defined by white lines, while others are more difficult to distinguish."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows rice paddies, small farms, and a shrimp farm.",
+        " Describe the type of area shown.\nfarm",
+        " What is the background?\nfarm",
+        " What are the contents of this image?\nThe contents of this image are crop fields.",
+        " What are the features of this image?\nThe image showscrop fields, irrigation wells, and a road."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nfarmland",
+        " Write a detailed description.\nA large field of crops, including a square section of farmland, a large section of green farmland, and two sections of light-colored farmland. The crops are growing in a square pattern, with a small section of farmland in the middle of the square",
+        " What is shown in this aerial view?\nfarmland",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nfarming"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25085.jpg",
+    "reference_captions": [
+      "The ship is in the deep blue water .",
+      "A blue general cargo ship docked in the blue sea .",
+      "There is a ship in the black water .",
+      "There is a ship at sea .",
+      "The ship is surrounded by water ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA boat, with a white cabin and a brown hull, is sailing on a dark river with a bridge. The boat is carrying a person on the front and is being towed by a large boat in the background. A small boat is also visible in",
+        " What do you see?\nboat",
+        " Summarize what\u2019s visible.\nboat",
+        " Describe any visible activity.\nboat",
+        " Describe the visual content of this image.\nboat"
+      ],
+      "partial": [
+        " What subjects are visible?\nboats",
+        " Describe the type of area shown.\nlake",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nboat",
+        " What are the features of this image?\nboat"
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nwater",
+        " Write a detailed description.\nA boat, with a white cabin and a long concrete structure behind it, is sailing on a dark river with a buoy. The boat is blue and white, with white lines in the water and ripples. There is also a ship, a tugboat",
+        " What is shown in this aerial view?\nboat",
+        " Describe all visible elements.\nboat",
+        " What is happening in this scene?\nboat is moving"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_27172.jpg",
+    "reference_captions": [
+      "The stadium is shaped like an egg, And the roof can be opened and closed freely .",
+      "Oval parking lot next to the road, Harbor and residential area .",
+      "The stadium is on the bare land next to some roads .",
+      "There are many roads of different lengths beside the stadium .",
+      "The stadium is beside a parking lot with no cars ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large stadium and a body of water. The stadium is oval in shape and sits on a flat brown ground. The grass surrounding the stadium is green. A road runs in front of the stadium, and there are buildings next to the water and the",
+        " What do you see?\nbuildings",
+        " Summarize what\u2019s visible.\nstadium",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nIn this image I can see few buildings, few trees, few roads, few vehicles, few poles, few boards, few water and few other objects on the ground."
+      ],
+      "partial": [
+        " What subjects are visible?\nBuilding, Lake, Water.",
+        " Describe the type of area shown.\nstadium",
+        " What is the background?\nwater",
+        " What are the contents of this image?\nMap.",
+        " What are the features of this image?\nIn this image, we can see buildings, roads, water, poles, trees and there are some other objects."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nstadium",
+        " Write a detailed description.\nA large stadium and a body of water. The stadium is oval in shape and sits on a flat landscape. The water is clear and blue, and the beach is adjacent to the stadium. There are various buildings in the image, including a long white",
+        " What is shown in this aerial view?\nstadium",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nnothing"
+      ]
+    }
+  },
+  {
+    "image": "RSICD_9189.jpg",
+    "reference_captions": [
+      "the stadium with a white awning is located on a square with parking lots with no cars .",
+      "the stadium with a white awning is located on a square with some empty parking lots .",
+      "the stadium with a white awning is located on a square with some empty parking lots .",
+      "here stands a smart stadium with white roof and an unused green meadow inside .",
+      "some cars are near a white stadium ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA large green soccer field with a white roof and walls. The field is surrounded by a wall on one side and a stadium wall on the other side. There are rows of seats in the stands, with an aisle between the rows. A person is",
+        " What do you see?\nstadium",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nno",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows a stadium with a football pitch, a road, a wall, and terraces on the left and right.",
+        " Describe the type of area shown.\nstadium",
+        " What is the background?\nstadium",
+        " What are the contents of this image?\nstadium",
+        " What are the features of this image?\nThe image shows a stadium with white roofs, a dark green center field, and white lines surrounding the field."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nstadium",
+        " Write a detailed description.\nA large green soccer field with a white roof and walls. The field is surrounded by a gray sidewalk and a gray wall on one side. There are rows of seats in the stands behind the field, and a few people are standing in the stands.",
+        " What is shown in this aerial view?\nstadium",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nsoccer game"
+      ]
+    }
+  },
+  {
+    "image": "NWPU_25792.jpg",
+    "reference_captions": [
+      "The snowberg is covered with snow and ice but some ridges are not covered by snow and ice .",
+      "A snow-covered mountain covered in large areas .",
+      "The snow berg is consist of bare land and white snow .",
+      "There is snow on the part of the snowberg .",
+      "There are much snow on the snowberg ."
+    ],
+    "generated_captions": {
+      "basic": [
+        " Write a caption.\nA vast mountain range stretches across the sky, its snow-laden peaks piercing through the clouds. The landscape below is a canvas of brown mountains, snow-covered peaks, and towering trees. The sky above is adorned with white clouds, some tinged with",
+        " What do you see?\nmountains",
+        " Summarize what\u2019s visible.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe any visible activity.\nSorry, as a base VLM I am not trained to answer this question.",
+        " Describe the visual content of this image.\nSorry, as a base VLM I am not trained to answer this question."
+      ],
+      "partial": [
+        " What subjects are visible?\nThe image shows the K2 and surrounding areas, including the border between China and Pakistan.",
+        " Describe the type of area shown.\nmountain",
+        " What is the background?\nmountains",
+        " What are the contents of this image?\nSnow.",
+        " What are the features of this image?\nThe image shows the K2 and surrounding areas, including the Pir Panjal Range and the Himalayas."
+      ],
+      "descriptive": [
+        " What does this satellite image show?\nmountains",
+        " Write a detailed description.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is shown in this aerial view?\nmountains",
+        " Describe all visible elements.\nSorry, as a base VLM I am not trained to answer this question.",
+        " What is happening in this scene?\nsnow"
+      ]
+    }
+  }
+]
