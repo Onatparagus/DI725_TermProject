@@ -1,0 +1,31 @@
+
+
+
+Loading checkpoint shards: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:03<00:00,  1.97s/it]
+Generating multi-prompt captions:   0%|                                                                                                                                                                            | 0/4453 [00:00<?, ?it/s]The 'batch_size' attribute of HybridCache is deprecated and will be removed in v4.49. Use the more precisely named 'self.max_batch_size' attribute instead.
+Generating multi-prompt captions:   0%|                                                                                                                                                                            | 0/4453 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "C:\Users\Onat\Desktop\TP2\source-new\prompts.py", line 98, in <module>
+    output = safe_generate(model, inputs, MAX_NEW_TOKENS, NUM_BEAMS)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\_dynamo\eval_frame.py", line 209, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\Desktop\TP2\source-new\prompts.py", line 76, in safe_generate
+    return model.generate(
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\utils\_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\generation\utils.py", line 2124, in generate
+    self._prepare_cache_for_generation(
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\generation\utils.py", line 1771, in _prepare_cache_for_generation
+    model_kwargs[cache_name] = self._get_cache(
+                               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\generation\utils.py", line 1676, in _get_cache
+    self._cache = cache_cls(**cache_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\cache_utils.py", line 1660, in __init__
+    torch._dynamo.mark_static_address(new_layer_key_cache)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'torch._dynamo' has no attribute 'mark_static_address'

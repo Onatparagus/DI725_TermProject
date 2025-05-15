@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Onat\Desktop\TP2\source-new\prompts.py", line 61, in <module>
+    model = PaliGemmaForConditionalGeneration.from_pretrained(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\modeling_utils.py", line 3535, in from_pretrained
+    raise ImportError(
+ImportError: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install 'accelerate>=0.26.0'`

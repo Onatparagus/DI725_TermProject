@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "C:\Users\Onat\Desktop\TP2\source-new\prompts.py", line 63, in <module>
+    model = PaliGemmaForConditionalGeneration.from_pretrained(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\utils\import_utils.py", line 1854, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\transformers\utils\import_utils.py", line 1831, in requires_backends
+    raise ImportError(PYTORCH_IMPORT_ERROR_WITH_TF.format(name))
+ImportError:
+PaliGemmaForConditionalGeneration requires the PyTorch library but it was not found in your environment.
+However, we were able to find a TensorFlow installation. TensorFlow classes begin
+with "TF", but are otherwise identically named to our PyTorch classes. This
+means that the TF equivalent of the class you tried to import would be "TFPaliGemmaForConditionalGeneration".
+If you want to use TensorFlow, please use TF classes instead!
+
+If you really do want to use PyTorch please go to
+https://pytorch.org/get-started/locally/ and follow the instructions that
+match your environment.

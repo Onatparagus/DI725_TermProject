@@ -1,0 +1,15 @@
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Current SDK version is 0.16.6
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Configure stats pid to 6724
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Onat\.config\wandb\settings
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Onat\Desktop\TP2\source-new\wandb\settings
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'prompts.py', 'program_abspath': 'C:\\Users\\Onat\\Desktop\\TP2\\source-new\\prompts.py', 'program': 'C:\\Users\\Onat\\Desktop\\TP2\\source-new\\prompts.py'}
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_setup.py:_flush():76] Applying login settings: {}
+2025-05-14 03:24:39,541 INFO    MainThread:6724 [wandb_init.py:_log_setup():521] Logging user logs to C:\Users\Onat\Desktop\TP2\source-new\wandb\run-20250514_032439-hkhkeub1\logs\debug.log
+2025-05-14 03:24:39,542 INFO    MainThread:6724 [wandb_init.py:_log_setup():522] Logging internal logs to C:\Users\Onat\Desktop\TP2\source-new\wandb\run-20250514_032439-hkhkeub1\logs\debug-internal.log
+2025-05-14 03:24:39,542 INFO    MainThread:6724 [wandb_init.py:init():561] calling init triggers
+2025-05-14 03:24:39,542 INFO    MainThread:6724 [wandb_init.py:init():568] wandb.init called with sweep_config: {}
+config: {}
+2025-05-14 03:24:39,542 INFO    MainThread:6724 [wandb_init.py:init():606] wandb.init() called when a run is still active
+2025-05-14 03:24:45,212 WARNING MsgRouterThr:6724 [router.py:message_loop():77] message_loop has been closed

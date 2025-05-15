@@ -1,0 +1,9 @@
+Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████| 2/2 [00:02<00:00,  1.33s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Generating multi-prompt captions:   0%|                                                       | 0/4453 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "C:\Users\Onat\Desktop\TP2\source-new\prompts.py", line 85, in <module>
+    with torch.no_grad(), torch._dynamo.disable():
+  File "C:\Users\Onat\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\_dynamo\eval_frame.py", line 530, in __enter__
+    raise RuntimeError(
+RuntimeError: torch._dynamo.optimize(...) is used with a context manager. Please refer to https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html to use torch._dynamo.optimize(...) as an annotation/decorator.

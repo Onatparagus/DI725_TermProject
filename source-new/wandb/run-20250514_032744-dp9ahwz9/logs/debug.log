@@ -1,0 +1,15 @@
+2025-05-14 03:27:44,702 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Current SDK version is 0.16.6
+2025-05-14 03:27:44,702 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Configure stats pid to 23104
+2025-05-14 03:27:44,702 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Onat\.config\wandb\settings
+2025-05-14 03:27:44,702 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Onat\Desktop\TP2\source-new\wandb\settings
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'prompts.py', 'program_abspath': 'C:\\Users\\Onat\\Desktop\\TP2\\source-new\\prompts.py', 'program': 'C:\\Users\\Onat\\Desktop\\TP2\\source-new\\prompts.py'}
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_setup.py:_flush():76] Applying login settings: {}
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_init.py:_log_setup():521] Logging user logs to C:\Users\Onat\Desktop\TP2\source-new\wandb\run-20250514_032744-dp9ahwz9\logs\debug.log
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_init.py:_log_setup():522] Logging internal logs to C:\Users\Onat\Desktop\TP2\source-new\wandb\run-20250514_032744-dp9ahwz9\logs\debug-internal.log
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_init.py:init():561] calling init triggers
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_init.py:init():568] wandb.init called with sweep_config: {}
+config: {}
+2025-05-14 03:27:44,703 INFO    MainThread:23104 [wandb_init.py:init():606] wandb.init() called when a run is still active
+2025-05-14 03:27:58,753 WARNING MsgRouterThr:23104 [router.py:message_loop():77] message_loop has been closed

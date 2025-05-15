@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-05-13T23:25:06.229118Z",
+  "program": "C:\\Users\\Onat\\Desktop\\TP2\\source-new\\prompts.py",
+  "codePath": "prompts.py",
+  "email": "onatfb@gmail.com",
+  "root": "C:\\Users\\Onat\\Desktop\\TP2\\source-new",
+  "host": "DESKTOP-9M88V75",
+  "executable": "C:\\Users\\Onat\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal": "prompts.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "499431501824",
+      "used": "392024363008"
+    }
+  },
+  "memory": {
+    "total": "34286960640"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2070 SUPER",
+      "memoryTotal": "8589934592",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.6"
+}
