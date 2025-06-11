@@ -51,7 +51,7 @@ PROMPT_SETS = {
         "<image> Write a detailed description.",
         "<image> Describe this image in detail.",
         "<image> Write a detailed caption.",
-        "<image> Caption what is happening in this scene?"
+        "<image> Describe this image."
     ]    
 }
 
