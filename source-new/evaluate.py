@@ -8,6 +8,11 @@ from nltk.tokenize import word_tokenize
 from nltk import download
 download('punkt')
 
+import nltk
+nltk.download('wordnet')
+nltk.download('omw-1.4')  # sometimes needed for WordNet synonym lookups
+
+
 # Load JSON
 with open("out/final/multi_promptset_captions_beams1_maxtokens50 3.json", "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -40,7 +45,10 @@ for set_name in ["basic", "partial", "descriptive"]:
             ref_tokens = [word_tokenize(ref.lower()) for ref in refs]
             gen_tokens = word_tokenize(response)
             bleu_scores.append(corpus_bleu([ref_tokens], [gen_tokens]))
-            meteor_scores.append(meteor_score(refs, response))
+            meteor_scores.append(meteor_score(
+                [word_tokenize(ref.lower()) for ref in refs],
+                word_tokenize(response)
+            ))
             rouge_scores.append(scorer.score(response, refs[0])["rougeL"].fmeasure)
 
     results[set_name] = {
