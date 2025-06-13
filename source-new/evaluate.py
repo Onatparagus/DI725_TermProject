@@ -12,9 +12,10 @@ import nltk
 nltk.download('wordnet')
 nltk.download('omw-1.4')  # sometimes needed for WordNet synonym lookups
 
+fpath = "out/final/multi_promptset_captions_beams1_maxtokens50 3.json"
 
 # Load JSON
-with open("out/final/multi_promptset_captions_beams1_maxtokens50 3.json", "r", encoding="utf-8") as f:
+with open(fpath, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 refusal_phrases = [
@@ -60,4 +61,5 @@ for set_name in ["basic", "partial", "descriptive"]:
 
 # Output results
 df = pd.DataFrame.from_dict(results, orient="index")
+print("Evaluation for " + fpath)
 print(df)

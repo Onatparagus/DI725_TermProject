@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 # 🔧 CONFIGURATION
-INPUT_DIR = "out/iteration 3 with wordcount_prompt"  # 👈 Your folder path
+INPUT_DIR = "out/final/multi_promptset_captions_beams1_maxtokens50 3.json"  # 👈 Your folder path
 REFUSAL_PHRASES = [
     "Sorry, as a base VLM I am not trained to answer this question.",
     "unanswerable",
@@ -12,12 +12,15 @@ REFUSAL_PHRASES = [
     "no image"
 ]
 
-# 🔍 Find first JSON file
-json_files = [f for f in os.listdir(INPUT_DIR) if f.endswith(".json")]
-if not json_files:
-    raise FileNotFoundError("No JSON files found in the directory.")
+if INPUT_DIR.endswith(".json"):
+    first_json_path = INPUT_DIR     
+else:
+    # 🔍 Find first JSON file
+    json_files = [f for f in os.listdir(INPUT_DIR) if f.endswith(".json")]
+    if not json_files:
+        raise FileNotFoundError("No JSON files found in the directory.")
 
-first_json_path = os.path.join(INPUT_DIR, json_files[0])
+    first_json_path = os.path.join(INPUT_DIR, json_files[0])
 print(f"Using file: {first_json_path}")
 
 # 📖 Load the data
@@ -48,6 +51,10 @@ print(f"\n📈 Refusal rate: {rate:.2f}% ({refusals}/{total})")
 # 🧾 Optional: Save details to CSV
 if refusal_details:
     df = pd.DataFrame(refusal_details)
-    out_csv = os.path.join(INPUT_DIR, "refusal_details.csv")
+    if INPUT_DIR.endswith(".json"):
+        head, tail = os.path.split(INPUT_DIR)
+        out_csv = os.path.join(os.path.dirname(INPUT_DIR) , "refusal_details for " + tail + ".csv")
+    else:
+        out_csv = os.path.join(INPUT_DIR, "refusal_details for " + INPUT_DIR + ".csv")
     df.to_csv(out_csv, index=False)
     print(f"📝 Refusal details saved to {out_csv}")
