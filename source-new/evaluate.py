@@ -33,7 +33,7 @@ for set_name in ["basic", "partial", "descriptive"]:
         refs = [r.strip() for r in item["reference_captions"]]
         for gen in item["generated_captions"].get(set_name, []):
             response = gen.split("\n", 1)[-1].strip().lower()
-            if response in refusal_phrases or len(response.split()) < 3:
+            if any(response == phrase.lower() for phrase in REFUSAL_PHRASES) or len(response.split()) < 3:
                 continue
             count += 1
 
